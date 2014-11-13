@@ -1,0 +1,52 @@
+# Prefix: FontLab OTPanel
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature aalt {
+feature calt;
+} aalt;
+feature calt {
+lookup calt1 {
+  	sub space emdash' space by emdash.alt1;
+  	sub space hyphen' space by emdash.alt4;
+  	sub space hyphen' hyphen by emdash.alt2;
+	} calt1;
+	lookup calt2 {
+		sub space emdash.alt2 hyphen' by space;
+		sub hyphen' hyphen by emdash.alt3;
+	} calt2;
+	lookup calt3 {
+		sub emdash.alt3 hyphen' by space;
+  	sub hyphen' by hyphen.alt;
+	} calt3;
+	lookup calt4 {
+  	sub space ellipsis' space by ellipsis.alt1;
+  	sub space ellipsis' period by ellipsis.alt4;
+  	sub ellipsis' space by ellipsis.alt3;
+  	sub ellipsis' period by ellipsis.alt3;
+	} calt4;
+	lookup calt5 {
+  	sub ellipsis.alt3 period' by period.alt;
+	} calt5;
+	lookup calt6 {
+  	ignore sub period' period period period;
+  	ignore sub period period' period period;
+  	ignore sub space period' period period space;
+  	sub period' period period space by ellipsis.alt5;
+  	sub period' period period by ellipsis.alt2;
+	} calt6;
+	lookup calt7 {
+  	sub ellipsis.alt5 period' period space by space;
+  	sub ellipsis.alt2 period' period by space;
+	} calt7;
+	lookup calt8 {
+  	sub ellipsis.alt5 space period' space by space;
+  	sub ellipsis.alt2 space period' by space;
+	} calt8;
+	lookup calt9 {
+  	sub perthousand period' by period.alt;
+  	sub perthousand comma' by comma.alt;
+  	sub perthousand colon' by colon.alt;
+  	sub perthousand semicolon' by semicolon.alt;
+	} calt9;
+} calt;
