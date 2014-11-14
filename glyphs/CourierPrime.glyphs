@@ -25760,6 +25760,23 @@ width = 1228;
 unicode = 005F;
 },
 {
+export = 0;
+glyphname = period.squat;
+lastChange = "2014-11-14 13:59:39 -0700";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 600;
+},
+{
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+name = Bold;
+width = 600;
+}
+);
+},
+{
 glyphname = braceleft;
 lastChange = "2014-11-13 04:54:09 -0700";
 layers = (
