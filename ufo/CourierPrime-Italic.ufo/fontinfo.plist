@@ -140,22 +140,18 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
-		<integer>-23</integer>
+		<integer>-22</integer>
 		<integer>0</integer>
 		<integer>924</integer>
-		<integer>947</integer>
+		<integer>946</integer>
 		<integer>1187</integer>
-		<integer>1210</integer>
+		<integer>1209</integer>
 		<integer>1312</integer>
-		<integer>1335</integer>
-		<integer>1421</integer>
-		<integer>1437</integer>
+		<integer>1334</integer>
 	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
-		<integer>-659</integer>
-		<integer>-643</integer>
-		<integer>-416</integer>
+		<integer>-415</integer>
 		<integer>-393</integer>
 	</array>
 	<key>styleMapStyleName</key>
