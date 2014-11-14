@@ -7950,7 +7950,7 @@ unicode = 0162;
 {
 color = (0,3,255,1);
 glyphname = Tcommaaccent;
-lastChange = "2014-05-18 14:44:40 -0700";
+lastChange = "2014-11-14 14:42:51 -0700";
 layers = (
 {
 components = (
@@ -7983,7 +7983,7 @@ name = "Regular Italic";
 width = 1228;
 }
 );
-unicode = 0162;
+unicode = 021A;
 },
 {
 glyphname = U;
@@ -13723,42 +13723,6 @@ width = 1228;
 unicode = 00EF;
 },
 {
-glyphname = idotaccent;
-lastChange = "2014-11-13 03:05:19 -0700";
-layers = (
-{
-components = (
-{
-name = dotlessi;
-transform = "{1, 0, 0, 1, 0, 0}";
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, -60, 0}";
-}
-);
-layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
-name = "Regular Italic";
-width = 1228;
-},
-{
-components = (
-{
-name = dotlessi;
-transform = "{1, 0, 0, 1, 0, 0}";
-},
-{
-name = dotaccent;
-transform = "{1, 0, 0, 1, -60, 0}";
-}
-);
-layerId = UUID0;
-name = "Bold Italic";
-width = 1228;
-}
-);
-},
-{
 glyphname = igrave;
 lastChange = "2014-05-18 14:44:40 -0700";
 layers = (
@@ -18242,7 +18206,7 @@ unicode = 0163;
 {
 color = (0,3,255,1);
 glyphname = tcommaaccent;
-lastChange = "2014-05-18 14:44:40 -0700";
+lastChange = "2014-11-14 14:42:51 -0700";
 layers = (
 {
 components = (
@@ -18275,7 +18239,7 @@ name = "Regular Italic";
 width = 1228;
 }
 );
-unicode = 0163;
+unicode = 021B;
 },
 {
 glyphname = u;
@@ -26255,8 +26219,8 @@ unicode = 002D;
 },
 {
 color = (0,243,255,1);
-glyphname = guillemotleft;
-lastChange = "2014-05-18 14:44:40 -0700";
+glyphname = guillemetleft;
+lastChange = "2014-11-14 14:42:51 -0700";
 layers = (
 {
 layerId = UUID0;
@@ -26373,8 +26337,8 @@ unicode = 00AB;
 },
 {
 color = (0,243,255,1);
-glyphname = guillemotright;
-lastChange = "2014-05-18 14:44:40 -0700";
+glyphname = guillemetright;
+lastChange = "2014-11-14 14:42:51 -0700";
 layers = (
 {
 layerId = UUID0;

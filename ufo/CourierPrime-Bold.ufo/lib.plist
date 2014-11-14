@@ -193,7 +193,6 @@
 		<string>ibreve</string>
 		<string>icircumflex</string>
 		<string>idieresis</string>
-		<string>i.loclTRK</string>
 		<string>igrave</string>
 		<string>ij</string>
 		<string>imacron</string>
@@ -334,6 +333,7 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>uni2011</string>
 		<string>hyphen.alt</string>
 		<string>emdash.alt1</string>
 		<string>emdash.alt2</string>

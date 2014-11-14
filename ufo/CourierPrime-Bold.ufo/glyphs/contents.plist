@@ -480,8 +480,6 @@
 	<string>hyphen.alt.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
-	<key>i.loclTRK</key>
-	<string>i.loclT_R_K_.glif</string>
 	<key>iacute</key>
 	<string>iacute.glif</string>
 	<key>ibreve</key>
@@ -730,6 +728,8 @@
 	<string>uni021B_.glif</string>
 	<key>uni0326</key>
 	<string>uni0326.glif</string>
+	<key>uni2011</key>
+	<string>uni2011.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
 	<key>uring</key>

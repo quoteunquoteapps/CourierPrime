@@ -7,9 +7,6 @@ languagesystem latn dflt;
 feature locl {
 # automatic
 script latn;
-language CAT;
-sub  l' periodcentered' l by ldot;
-sub  L' periodcentered' L by Ldot;
 language ROM;
 sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
@@ -20,16 +17,9 @@ sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
 sub Tcedilla by Tcommaaccent;
 sub tcedilla by tcommaaccent;
-language KAZ;
-sub i by idotaccent;
-language TAT;
-sub i by idotaccent;
-language TRK;
-sub i by idotaccent;
-language CRT;
-sub i by idotaccent;
-language AZE;
-sub i by idotaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
 } locl;
 feature sups {
 # automatic
