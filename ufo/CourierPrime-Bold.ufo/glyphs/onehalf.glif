@@ -5,7 +5,7 @@
   <outline>
     <component base="onesuperior" xOffset="-265" yOffset="281" xScale="0.83" yScale="0.83"/>
     <component base="twosuperior" xOffset="426" yOffset="-620" xScale="0.83" yScale="0.83"/>
-    <component base="fraction" yOffset="50"/>
+    <component base="fraction" yOffset="40"/>
   </outline>
   <lib>
     <dict>
