@@ -291,6 +291,15 @@
 		<string>twosuperior</string>
 		<string>threesuperior</string>
 		<string>foursuperior</string>
+		<string>colon.alt</string>
+		<string>comma.alt</string>
+		<string>period.alt</string>
+		<string>semicolon.alt</string>
+		<string>ellipsis.alt1</string>
+		<string>ellipsis.alt2</string>
+		<string>ellipsis.alt3</string>
+		<string>ellipsis.alt4</string>
+		<string>ellipsis.alt5</string>
 		<string>asterisk</string>
 		<string>backslash</string>
 		<string>bullet</string>
@@ -309,29 +318,20 @@
 		<string>semicolon</string>
 		<string>slash</string>
 		<string>underscore</string>
-		<string>colon.alt</string>
-		<string>comma.alt</string>
-		<string>period.alt</string>
-		<string>semicolon.alt</string>
-		<string>ellipsis.alt1</string>
-		<string>ellipsis.alt2</string>
-		<string>ellipsis.alt3</string>
-		<string>ellipsis.alt4</string>
-		<string>ellipsis.alt5</string>
 		<string>braceleft</string>
 		<string>braceright</string>
 		<string>bracketleft</string>
 		<string>bracketright</string>
 		<string>parenleft</string>
 		<string>parenright</string>
-		<string>emdash</string>
-		<string>endash</string>
-		<string>hyphen</string>
 		<string>hyphen.alt</string>
 		<string>emdash.alt1</string>
 		<string>emdash.alt2</string>
 		<string>emdash.alt3</string>
 		<string>emdash.alt4</string>
+		<string>emdash</string>
+		<string>endash</string>
+		<string>hyphen</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
 		<string>guilsinglleft</string>

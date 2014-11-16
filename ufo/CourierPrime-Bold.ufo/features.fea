@@ -3,10 +3,24 @@
 languagesystem DFLT dflt;
 languagesystem grek dflt;
 languagesystem latn dflt;
+languagesystem latn CAT;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn TRK;
 
+feature aalt {
+# automatic
+feature locl;
+feature sups;
+feature frac;
+feature ordn;
+} aalt;
 feature locl {
 # automatic
 script latn;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
 language ROM;
 sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
@@ -17,9 +31,16 @@ sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
 sub Tcedilla by Tcommaaccent;
 sub tcedilla by tcommaaccent;
-language CAT;
-sub  l' periodcentered' l by ldot;
-sub  L' periodcentered' L by Ldot;
+language KAZ;
+sub i by idotaccent;
+language TAT;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+language CRT;
+sub i by idotaccent;
+language AZE;
+sub i by idotaccent;
 } locl;
 feature sups {
 # automatic
