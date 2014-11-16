@@ -30839,7 +30839,7 @@ unicode = 2260;
 },
 {
 glyphname = percent;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-16 02:06:35 -0700";
 layers = (
 {
 layerId = UUID0;
@@ -31034,7 +31034,7 @@ unicode = 0025;
 },
 {
 glyphname = perthousand;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-16 02:06:31 -0700";
 layers = (
 {
 layerId = UUID0;
