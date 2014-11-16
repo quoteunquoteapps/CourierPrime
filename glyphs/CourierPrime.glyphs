@@ -21819,10 +21819,12 @@ name = onesuperior;
 transform = "{0.835, 0, 0, 0.835, -262, 280}";
 },
 {
+disableAlignment = 1;
 name = twosuperior;
 transform = "{0.835, 0, 0, 0.835, 429, -619}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 40}";
 }
@@ -21950,10 +21952,12 @@ name = onesuperior;
 transform = "{0.835, 0, 0, 0.835, -265, 281}";
 },
 {
+disableAlignment = 1;
 name = twosuperior;
 transform = "{0.835, 0, 0, 0.835, 426, -620}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 50}";
 }
@@ -22073,6 +22077,7 @@ nodes = (
 };
 components = (
 {
+disableAlignment = 1;
 name = foursuperior;
 transform = "{0.835, 0, 0, 0.835, 428, -619}";
 },
@@ -22082,6 +22087,7 @@ name = onesuperior;
 transform = "{0.835, 0, 0, 0.835, -262, 280}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, -10}";
 }
@@ -22193,6 +22199,7 @@ nodes = (
 };
 components = (
 {
+disableAlignment = 1;
 name = foursuperior;
 transform = "{0.835, 0, 0, 0.835, 435, -615}";
 },
@@ -22202,6 +22209,7 @@ name = onesuperior;
 transform = "{0.835, 0, 0, 0.835, -265, 281}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 0}";
 }
@@ -22359,10 +22367,12 @@ name = threesuperior;
 transform = "{0.835, 0, 0, 0.835, -232, 281}";
 },
 {
+disableAlignment = 1;
 name = foursuperior;
 transform = "{0.835, 0, 0, 0.835, 428, -619}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 0}";
 }
@@ -22512,10 +22522,12 @@ name = threesuperior;
 transform = "{0.835, 0, 0, 0.835, -243, 280}";
 },
 {
+disableAlignment = 1;
 name = foursuperior;
 transform = "{0.835, 0, 0, 0.835, 435, -615}";
 },
 {
+disableAlignment = 1;
 name = fraction;
 transform = "{1, 0, 0, 1, 0, 10}";
 }
