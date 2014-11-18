@@ -21586,6 +21586,57 @@ width = 1228;
 unicode = 2206;
 },
 {
+glyphname = Omega;
+lastChange = "2014-11-18 03:49:41 -0700";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 600;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 600;
+}
+);
+unicode = 03A9;
+},
+{
+glyphname = mu;
+lastChange = "2014-11-18 03:52:10 -0700";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 600;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 600;
+}
+);
+unicode = 03BC;
+},
+{
+glyphname = pi;
+lastChange = "2014-11-18 03:52:10 -0700";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 600;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 600;
+}
+);
+unicode = 03C0;
+},
+{
 glyphname = zero;
 lastChange = "2014-11-15 05:52:41 -0700";
 layers = (
@@ -31815,6 +31866,23 @@ width = 1228;
 unicode = 2265;
 },
 {
+glyphname = infinity;
+lastChange = "2014-11-18 03:52:10 -0700";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 600;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 600;
+}
+);
+unicode = 221E;
+},
+{
 glyphname = integral;
 lastChange = "2014-11-16 17:21:04 -0700";
 layers = (
@@ -32519,6 +32587,23 @@ width = 1228;
 unicode = 2260;
 },
 {
+glyphname = partialdiff;
+lastChange = "2014-11-18 03:52:10 -0700";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 600;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 600;
+}
+);
+unicode = 2202;
+},
+{
 glyphname = percent;
 lastChange = "2014-11-16 02:06:01 -0700";
 layers = (
@@ -33197,6 +33282,40 @@ width = 1228;
 unicode = 00B1;
 },
 {
+glyphname = product;
+lastChange = "2014-11-18 03:52:10 -0700";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 600;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 600;
+}
+);
+unicode = 220F;
+},
+{
+glyphname = radical;
+lastChange = "2014-11-18 03:52:10 -0700";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 600;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 600;
+}
+);
+unicode = 221A;
+},
+{
 color = (255,5,0,1);
 glyphname = summation;
 lastChange = "2014-05-18 14:44:40 -0700";
@@ -33253,6 +33372,23 @@ width = 1228;
 }
 );
 unicode = 2211;
+},
+{
+glyphname = lozenge;
+lastChange = "2014-11-18 03:52:10 -0700";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 600;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 600;
+}
+);
+unicode = 25CA;
 },
 {
 color = (0,243,255,1);

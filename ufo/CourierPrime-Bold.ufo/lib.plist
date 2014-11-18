@@ -278,6 +278,9 @@
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>Delta</string>
+		<string>Omega</string>
+		<string>mu</string>
+		<string>pi</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -366,6 +369,7 @@
 		<string>equal</string>
 		<string>greater</string>
 		<string>greaterequal</string>
+		<string>infinity</string>
 		<string>integral</string>
 		<string>less</string>
 		<string>lessequal</string>
@@ -373,11 +377,15 @@
 		<string>minus</string>
 		<string>multiply</string>
 		<string>notequal</string>
+		<string>partialdiff</string>
 		<string>percent</string>
 		<string>perthousand</string>
 		<string>plus</string>
 		<string>plusminus</string>
+		<string>product</string>
+		<string>radical</string>
 		<string>summation</string>
+		<string>lozenge</string>
 		<string>ampersand</string>
 		<string>asciicircum</string>
 		<string>at</string>
