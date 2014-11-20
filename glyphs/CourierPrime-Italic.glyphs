@@ -28444,6 +28444,24 @@ width = 1228;
 unicode = 005F;
 },
 {
+color = 11;
+export = 0;
+glyphname = period.squat;
+lastChange = "2014-11-20 14:22:11 -0700";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 600;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 600;
+}
+);
+},
+{
 glyphname = braceleft;
 lastChange = "2014-05-18 14:44:40 -0700";
 layers = (
@@ -29471,6 +29489,34 @@ width = 1228;
 }
 );
 unicode = 002D;
+},
+{
+glyphname = nonbreakinghyphen;
+layers = (
+{
+components = (
+{
+name = hyphen;
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 1228;
+},
+{
+components = (
+{
+name = hyphen;
+transform = "{1, 0, 0, 1, 0, 0}";
+}
+);
+layerId = UUID0;
+name = "Bold Italic";
+width = 1228;
+}
+);
+unicode = 2011;
 },
 {
 color = (0,243,255,1);

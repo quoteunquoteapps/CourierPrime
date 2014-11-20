@@ -321,6 +321,7 @@
 		<string>semicolon</string>
 		<string>slash</string>
 		<string>underscore</string>
+		<string>period.squat</string>
 		<string>braceleft</string>
 		<string>braceright</string>
 		<string>bracketleft</string>
@@ -335,6 +336,7 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
+		<string>uni2011</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
 		<string>guilsinglleft</string>

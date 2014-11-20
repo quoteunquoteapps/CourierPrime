@@ -26432,9 +26432,10 @@ width = 1228;
 unicode = 005F;
 },
 {
+color = 11;
 export = 0;
 glyphname = period.squat;
-lastChange = "2014-11-14 13:59:39 -0700";
+lastChange = "2014-11-20 14:21:58 -0700";
 layers = (
 {
 layerId = UUID0;
