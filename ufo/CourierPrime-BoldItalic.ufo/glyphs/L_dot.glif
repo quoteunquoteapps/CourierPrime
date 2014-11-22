@@ -44,4 +44,12 @@
     </contour>
     <component base="dotaccent" xOffset="110" yOffset="-510"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>6</integer>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
 </glyph>
