@@ -27,7 +27,6 @@
 		<string>Dcaron</string>
 		<string>Dcroat</string>
 		<string>E</string>
-		<string>E.alt</string>
 		<string>Eacute</string>
 		<string>Ebreve</string>
 		<string>Ecaron</string>
@@ -38,7 +37,6 @@
 		<string>Emacron</string>
 		<string>Eogonek</string>
 		<string>F</string>
-		<string>F.alt</string>
 		<string>G</string>
 		<string>Gbreve</string>
 		<string>Gcircumflex</string>
@@ -89,7 +87,6 @@
 		<string>P</string>
 		<string>Thorn</string>
 		<string>Q</string>
-		<string>Q.alt</string>
 		<string>R</string>
 		<string>Racute</string>
 		<string>Rcaron</string>
@@ -133,6 +130,7 @@
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
 		<string>Delta</string>
+		<string>Omega</string>
 	</array>
 </dict>
 </plist>

@@ -1,4 +1,11 @@
 {
+classes = (
+{
+automatic = 1;
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Delta Omega";
+name = Uppercase;
+}
+);
 copyright = "Copyright (c) 2014 Quote-Unquote Apps.";
 customParameters = (
 {
@@ -20,18 +27,41 @@ designerURL = "http://basicrecipe.com";
 familyName = "Courier Prime";
 featurePrefixes = (
 {
-code = "languagesystem DFLT dflt;\012languagesystem latn dflt;";
-name = "FontLab OTPanel";
+automatic = 1;
+code = "languagesystem DFLT dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012";
+name = Languagesystems;
 }
 );
 features = (
 {
-code = "feature calt;\012";
+automatic = 1;
+code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012";
 name = aalt;
 },
 {
-code = "lookup calt1 {\012  \011sub space emdash' space by emdash.alt1;\012  \011sub space hyphen' space by emdash.alt4;\012  \011sub space hyphen' hyphen by emdash.alt2;\012\011} calt1;\012\011lookup calt2 {\012\011\011sub space emdash.alt2 hyphen' by space;\012\011\011sub hyphen' hyphen by emdash.alt3;\012\011} calt2;\012\011lookup calt3 {\012\011\011sub emdash.alt3 hyphen' by space;\012  \011sub hyphen' by hyphen.alt;\012\011} calt3;\012\011lookup calt4 {\012  \011sub space ellipsis' space by ellipsis.alt1;\012  \011sub space ellipsis' period by ellipsis.alt4;\012  \011sub ellipsis' space by ellipsis.alt3;\012  \011sub ellipsis' period by ellipsis.alt3;\012\011} calt4;\012\011lookup calt5 {\012  \011sub ellipsis.alt3 period' by period.alt;\012\011} calt5;\012\011lookup calt6 {\012  \011ignore sub period' period period period;\012  \011ignore sub period period' period period;\012  \011ignore sub space period' period period space;\012  \011sub period' period period space by ellipsis.alt5;\012  \011sub period' period period by ellipsis.alt2;\012\011} calt6;\012\011lookup calt7 {\012  \011sub ellipsis.alt5 period' period space by space;\012  \011sub ellipsis.alt2 period' period by space;\012\011} calt7;\012\011lookup calt8 {\012  \011sub ellipsis.alt5 space period' space by space;\012  \011sub ellipsis.alt2 space period' by space;\012\011} calt8;\012\011lookup calt9 {\012  \011sub perthousand period' by period.alt;\012  \011sub perthousand comma' by comma.alt;\012  \011sub perthousand colon' by colon.alt;\012  \011sub perthousand semicolon' by semicolon.alt;\012\011} calt9;\012";
-name = calt;
+automatic = 1;
+code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
+name = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub acute by acute.case;\012sub breve by breve.case;\012sub caron by caron.case;\012sub cedilla by cedilla.case;\012sub circumflex by circumflex.case;\012sub dieresis by dieresis.case;\012sub dotaccent by dotaccent.case;\012sub grave by grave.case;\012sub hungarumlaut by hungarumlaut.case;\012sub macron by macron.case;\012sub ogonek by ogonek.case;\012sub ring by ring.case;\012sub tilde by tilde.case;\012sub commaaccent by commaaccent.case;\012";
+name = case;
 }
 );
 fontMaster = (

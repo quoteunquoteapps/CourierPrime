@@ -3,10 +3,9 @@
 languagesystem DFLT dflt;
 languagesystem grek dflt;
 languagesystem latn dflt;
-languagesystem latn CAT;
 languagesystem latn ROM;
 languagesystem latn MOL;
-languagesystem latn TRK;
+languagesystem latn CAT;
 
 feature aalt {
 # automatic
@@ -14,13 +13,11 @@ feature locl;
 feature sups;
 feature frac;
 feature ordn;
+feature case;
 } aalt;
 feature locl {
 # automatic
 script latn;
-language CAT;
-sub  l' periodcentered' l by ldot;
-sub  L' periodcentered' L by Ldot;
 language ROM;
 sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
@@ -31,16 +28,9 @@ sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
 sub Tcedilla by Tcommaaccent;
 sub tcedilla by tcommaaccent;
-language KAZ;
-sub i by idotaccent;
-language TAT;
-sub i by idotaccent;
-language TRK;
-sub i by idotaccent;
-language CRT;
-sub i by idotaccent;
-language AZE;
-sub i by idotaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
 } locl;
 feature sups {
 # automatic
@@ -60,3 +50,20 @@ feature ordn {
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 } ordn;
+feature case {
+# automatic
+sub acute by acute.case;
+sub breve by breve.case;
+sub caron by caron.case;
+sub cedilla by cedilla.case;
+sub circumflex by circumflex.case;
+sub dieresis by dieresis.case;
+sub dotaccent by dotaccent.case;
+sub grave by grave.case;
+sub hungarumlaut by hungarumlaut.case;
+sub macron by macron.case;
+sub ogonek by ogonek.case;
+sub ring by ring.case;
+sub tilde by tilde.case;
+sub commaaccent by commaaccent.case;
+} case;
