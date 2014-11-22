@@ -4,7 +4,7 @@
   <outline>
     <component base="hungarumlaut" xOffset="40" yOffset="270"/>
     <contour>
-      <point x="654" y="1187" type="move" name="_top"/>
+      <point x="741" y="1187" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

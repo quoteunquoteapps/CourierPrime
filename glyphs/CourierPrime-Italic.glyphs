@@ -38205,7 +38205,7 @@ unicode = 02C7;
 {
 color = 4;
 glyphname = acute.case;
-lastChange = "2014-11-22 16:54:07 -0700";
+lastChange = "2014-11-22 17:57:13 -0700";
 layers = (
 {
 anchors = (
@@ -38228,7 +38228,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38246,7 +38246,7 @@ width = 1228;
 {
 color = 4;
 glyphname = breve.case;
-lastChange = "2014-11-22 16:54:13 -0700";
+lastChange = "2014-11-22 17:57:15 -0700";
 layers = (
 {
 anchors = (
@@ -38269,7 +38269,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38287,7 +38287,7 @@ width = 1228;
 {
 color = 4;
 glyphname = caron.case;
-lastChange = "2014-11-22 16:54:22 -0700";
+lastChange = "2014-11-22 17:57:15 -0700";
 layers = (
 {
 anchors = (
@@ -38310,7 +38310,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38357,7 +38357,7 @@ width = 1228;
 {
 color = 4;
 glyphname = circumflex.case;
-lastChange = "2014-11-22 16:54:29 -0700";
+lastChange = "2014-11-22 17:57:17 -0700";
 layers = (
 {
 anchors = (
@@ -38380,7 +38380,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38398,7 +38398,7 @@ width = 1228;
 {
 color = 4;
 glyphname = dieresis.case;
-lastChange = "2014-11-22 16:54:35 -0700";
+lastChange = "2014-11-22 17:57:18 -0700";
 layers = (
 {
 anchors = (
@@ -38421,7 +38421,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38439,7 +38439,7 @@ width = 1228;
 {
 color = 4;
 glyphname = dotaccent.case;
-lastChange = "2014-11-22 16:54:40 -0700";
+lastChange = "2014-11-22 17:57:19 -0700";
 layers = (
 {
 anchors = (
@@ -38462,7 +38462,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38480,7 +38480,7 @@ width = 1228;
 {
 color = 4;
 glyphname = grave.case;
-lastChange = "2014-11-22 16:54:47 -0700";
+lastChange = "2014-11-22 17:57:19 -0700";
 layers = (
 {
 anchors = (
@@ -38503,7 +38503,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38521,7 +38521,7 @@ width = 1228;
 {
 color = 4;
 glyphname = hungarumlaut.case;
-lastChange = "2014-11-22 16:54:53 -0700";
+lastChange = "2014-11-22 17:57:20 -0700";
 layers = (
 {
 anchors = (
@@ -38544,7 +38544,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38562,7 +38562,7 @@ width = 1228;
 {
 color = 4;
 glyphname = macron.case;
-lastChange = "2014-11-22 16:54:59 -0700";
+lastChange = "2014-11-22 17:57:21 -0700";
 layers = (
 {
 anchors = (
@@ -38585,7 +38585,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38632,7 +38632,7 @@ width = 1228;
 {
 color = 4;
 glyphname = ring.case;
-lastChange = "2014-11-22 16:53:07 -0700";
+lastChange = "2014-11-22 17:57:23 -0700";
 layers = (
 {
 anchors = (
@@ -38655,7 +38655,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
@@ -38673,7 +38673,7 @@ width = 1228;
 {
 color = 4;
 glyphname = tilde.case;
-lastChange = "2014-11-22 16:55:09 -0700";
+lastChange = "2014-11-22 17:57:24 -0700";
 layers = (
 {
 anchors = (
@@ -38696,7 +38696,7 @@ width = 1228;
 anchors = (
 {
 name = _top;
-position = "{654, 1187}";
+position = "{741, 1187}";
 }
 );
 components = (
