@@ -4083,7 +4083,7 @@ unicode = 0132;
 },
 {
 glyphname = Iacute;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:24:13 -0700";
 layers = (
 {
 components = (
@@ -4093,7 +4093,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, -2, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = UUID0;
@@ -4108,7 +4108,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, -2, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
@@ -4268,7 +4268,7 @@ unicode = 0130;
 },
 {
 glyphname = Igrave;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:13:28 -0700";
 layers = (
 {
 components = (
@@ -4278,7 +4278,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 22, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = UUID0;
@@ -4293,7 +4293,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 22, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
@@ -8375,7 +8375,7 @@ unicode = 0055;
 },
 {
 glyphname = Uacute;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:24:34 -0700";
 layers = (
 {
 components = (
@@ -8385,7 +8385,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, -2, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = UUID0;
@@ -8523,7 +8523,7 @@ unicode = 00DC;
 },
 {
 glyphname = Ugrave;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:24:31 -0700";
 layers = (
 {
 components = (
@@ -8533,7 +8533,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 22, 270}";
+transform = "{1, 0, 0, 1, 0, 270}";
 }
 );
 layerId = UUID0;
@@ -9080,7 +9080,7 @@ unicode = 0057;
 },
 {
 glyphname = Wacute;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:24:51 -0700";
 layers = (
 {
 components = (
@@ -9090,7 +9090,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 18, 270}";
+transform = "{1, 0, 0, 1, 10, 270}";
 }
 );
 layerId = UUID0;
@@ -9191,7 +9191,7 @@ unicode = 1E84;
 },
 {
 glyphname = Wgrave;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:25:04 -0700";
 layers = (
 {
 components = (
@@ -9201,7 +9201,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 12, 270}";
+transform = "{1, 0, 0, 1, -10, 270}";
 }
 );
 layerId = UUID0;
@@ -9528,13 +9528,13 @@ unicode = 0059;
 },
 {
 glyphname = Yacute;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:25:16 -0700";
 layers = (
 {
 components = (
 {
 name = acute;
-transform = "{1, 0, 0, 1, -2, 270}";
+transform = "{1, 0, 0, 1, 10, 270}";
 },
 {
 name = Y;
@@ -9639,7 +9639,7 @@ unicode = 0178;
 },
 {
 glyphname = Ygrave;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:25:12 -0700";
 layers = (
 {
 components = (
@@ -9649,7 +9649,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 20, 270}";
+transform = "{1, 0, 0, 1, 10, 270}";
 }
 );
 layerId = UUID0;
@@ -20069,7 +20069,7 @@ unicode = 1E85;
 },
 {
 glyphname = wgrave;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:25:34 -0700";
 layers = (
 {
 components = (
@@ -20079,7 +20079,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, -10, 0}";
+transform = "{1, 0, 0, 1, -20, 0}";
 }
 );
 layerId = UUID0;
@@ -20451,7 +20451,7 @@ unicode = 0079;
 },
 {
 glyphname = yacute;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:26:01 -0700";
 layers = (
 {
 components = (
@@ -20461,7 +20461,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 8, 0}";
+transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = UUID0;
@@ -20562,7 +20562,7 @@ unicode = 00FF;
 },
 {
 glyphname = ygrave;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 19:25:58 -0700";
 layers = (
 {
 components = (
@@ -20572,7 +20572,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 10, 0}";
+transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = UUID0;
