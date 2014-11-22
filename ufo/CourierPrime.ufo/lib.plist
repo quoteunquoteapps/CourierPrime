@@ -402,6 +402,19 @@
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
+		<string>acute.case</string>
+		<string>breve.case</string>
+		<string>caron.case</string>
+		<string>cedilla.case</string>
+		<string>circumflex.case</string>
+		<string>dieresis.case</string>
+		<string>dotaccent.case</string>
+		<string>grave.case</string>
+		<string>hungarumlaut.case</string>
+		<string>macron.case</string>
+		<string>ogonek.case</string>
+		<string>ring.case</string>
+		<string>tilde.case</string>
 		<string>cedilla</string>
 		<string>circumflex</string>
 		<string>dieresis</string>
@@ -412,6 +425,7 @@
 		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
+		<string>uni0326.case</string>
 		<string>uni0326</string>
 	</array>
 </dict>
