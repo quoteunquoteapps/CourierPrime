@@ -34599,7 +34599,7 @@ unicode = 00B0;
 {
 color = 1;
 glyphname = minute;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 16:58:59 -0700";
 layers = (
 {
 layerId = UUID0;
@@ -34609,10 +34609,10 @@ paths = (
 closed = 1;
 nodes = (
 "706 1212 OFFCURVE",
-"686 1198 OFFCURVE",
+"687 1198 OFFCURVE",
 "666 1164 CURVE SMOOTH",
-"420 757 LINE",
-"407 734 OFFCURVE",
+"420 757 LINE SMOOTH",
+"407 735 OFFCURVE",
 "416 709 OFFCURVE",
 "435 694 CURVE SMOOTH",
 "454 679 OFFCURVE",
@@ -34630,7 +34630,28 @@ width = 1228;
 {
 layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
 name = Bold;
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"664 1219 OFFCURVE",
+"615 1206 OFFCURVE",
+"594 1164 CURVE SMOOTH",
+"393 758 LINE SMOOTH",
+"376 723 OFFCURVE",
+"391 697 OFFCURVE",
+"433 680 CURVE SMOOTH",
+"476 663 OFFCURVE",
+"512 669 OFFCURVE",
+"535 694 CURVE SMOOTH",
+"876 1075 LINE SMOOTH",
+"900 1102 OFFCURVE",
+"887 1152 OFFCURVE",
+"777 1185 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
 }
 );
 unicode = 2032;
@@ -34913,7 +34934,7 @@ unicode = 00AE;
 {
 color = 1;
 glyphname = second;
-lastChange = "2014-11-13 04:54:09 -0700";
+lastChange = "2014-11-22 16:56:44 -0700";
 layers = (
 {
 components = (
@@ -34934,16 +34955,16 @@ width = 1228;
 components = (
 {
 name = minute;
-transform = "{1, 0, 0, 1, 0, 0}";
+transform = "{1, 0, 0, 1, -220, 0}";
 },
 {
 name = minute;
-transform = "{1, 0, 0, 1, 0, 0}";
+transform = "{1, 0, 0, 1, 220, 0}";
 }
 );
 layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
 name = Bold;
-width = 600;
+width = 1228;
 }
 );
 unicode = 2033;
