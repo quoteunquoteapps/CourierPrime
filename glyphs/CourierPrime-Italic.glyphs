@@ -38359,6 +38359,44 @@ width = 1228;
 unicode = 2122;
 },
 {
+color = 11;
+export = 0;
+glyphname = bar.double;
+lastChange = "2014-11-23 14:56:38 -0700";
+layers = (
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -400, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 1228;
+},
+{
+components = (
+{
+name = bar;
+transform = "{1, 0, 0, 1, -400, 0}";
+},
+{
+name = bar;
+transform = "{1, 0, 0, 1, 400, 0}";
+}
+);
+layerId = UUID0;
+name = "Bold Italic";
+width = 1228;
+}
+);
+},
+{
 glyphname = acute;
 lastChange = "2014-05-18 14:44:40 -0700";
 layers = (

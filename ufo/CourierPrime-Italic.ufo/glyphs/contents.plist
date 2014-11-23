@@ -300,6 +300,8 @@
 	<string>backslash.glif</string>
 	<key>bar</key>
 	<string>bar.glif</string>
+	<key>bar.double</key>
+	<string>bar.double.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
 	<key>braceright</key>
