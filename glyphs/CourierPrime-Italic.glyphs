@@ -20314,7 +20314,7 @@ unicode = 0165;
 {
 color = 6;
 glyphname = tcedilla;
-lastChange = "2014-11-22 20:03:19 -0700";
+lastChange = "2014-11-23 02:26:19 -0700";
 layers = (
 {
 components = (
@@ -20324,7 +20324,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedilla;
-transform = "{1, 0, 0, 1, 41, 0}";
+transform = "{1, 0, 0, 1, 51, 0}";
 }
 );
 layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
