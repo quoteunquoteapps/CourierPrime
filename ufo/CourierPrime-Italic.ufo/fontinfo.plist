@@ -10,6 +10,8 @@
 	<string>Copyright (c) 2014 Quote-Unquote Apps.</string>
 	<key>descender</key>
 	<integer>-643</integer>
+	<key>familyName</key>
+	<string>Courier Prime</string>
 	<key>italicAngle</key>
 	<real>-10</real>
 	<key>openTypeHeadCreated</key>

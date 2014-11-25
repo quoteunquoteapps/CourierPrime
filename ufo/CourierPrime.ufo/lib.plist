@@ -308,6 +308,7 @@
 		<string>ellipsis.alt5</string>
 		<string>asterisk</string>
 		<string>backslash</string>
+		<string>periodcentered</string>
 		<string>bullet</string>
 		<string>colon</string>
 		<string>comma</string>
@@ -316,7 +317,6 @@
 		<string>exclamdown</string>
 		<string>numbersign</string>
 		<string>period</string>
-		<string>periodcentered</string>
 		<string>question</string>
 		<string>questiondown</string>
 		<string>quotedbl</string>
@@ -352,11 +352,11 @@
 		<string>quotesinglbase</string>
 		<string>space</string>
 		<string>uni00A0</string>
-		<string>florin</string>
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
 		<string>Euro</string>
+		<string>florin</string>
 		<string>franc</string>
 		<string>sterling</string>
 		<string>won</string>
@@ -384,21 +384,21 @@
 		<string>radical</string>
 		<string>summation</string>
 		<string>lozenge</string>
-		<string>ampersand</string>
-		<string>asciicircum</string>
-		<string>at</string>
 		<string>bar</string>
 		<string>brokenbar</string>
-		<string>copyright</string>
-		<string>dagger</string>
-		<string>daggerdbl</string>
-		<string>degree</string>
-		<string>minute</string>
+		<string>at</string>
+		<string>ampersand</string>
 		<string>paragraph</string>
+		<string>copyright</string>
 		<string>registered</string>
-		<string>second</string>
 		<string>section</string>
 		<string>trademark</string>
+		<string>degree</string>
+		<string>asciicircum</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>minute</string>
+		<string>second</string>
 		<string>acute</string>
 		<string>breve</string>
 		<string>caron</string>
