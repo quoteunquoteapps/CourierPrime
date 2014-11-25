@@ -113,7 +113,7 @@
 		<string>Tbar</string>
 		<string>Tcaron</string>
 		<string>Tcedilla</string>
-		<string>uni021A</string>
+		<string>Tcommaaccent</string>
 		<string>U</string>
 		<string>Uacute</string>
 		<string>Ubreve</string>
@@ -240,7 +240,7 @@
 		<string>tbar</string>
 		<string>tcaron</string>
 		<string>tcedilla</string>
-		<string>uni021B</string>
+		<string>tcommaaccent</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ubreve</string>
@@ -336,9 +336,9 @@
 		<string>emdash</string>
 		<string>endash</string>
 		<string>hyphen</string>
-		<string>uni2011</string>
-		<string>guillemotleft</string>
-		<string>guillemotright</string>
+		<string>nonbreakinghyphen</string>
+		<string>guillemetleft</string>
+		<string>guillemetright</string>
 		<string>guilsinglleft</string>
 		<string>guilsinglright</string>
 		<string>quotedblbase</string>
@@ -348,11 +348,11 @@
 		<string>quoteright</string>
 		<string>quotesinglbase</string>
 		<string>space</string>
-		<string>uni00A0</string>
+		<string>nbspace</string>
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
-		<string>Euro</string>
+		<string>euro</string>
 		<string>florin</string>
 		<string>franc</string>
 		<string>sterling</string>
@@ -423,8 +423,8 @@
 		<string>ogonek</string>
 		<string>ring</string>
 		<string>tilde</string>
-		<string>uni0326.case</string>
-		<string>uni0326</string>
+		<string>commaaccent.case</string>
+		<string>commaaccent</string>
 	</array>
 </dict>
 </plist>
