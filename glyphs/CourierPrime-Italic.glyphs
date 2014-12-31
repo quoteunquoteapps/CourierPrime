@@ -4704,7 +4704,7 @@ unicode = 0139;
 },
 {
 glyphname = Lcaron;
-lastChange = "2014-11-16 00:57:06 +0000";
+lastChange = "2014-12-31 00:37:57 +0000";
 layers = (
 {
 components = (
@@ -4713,8 +4713,8 @@ name = L;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = quoteright;
-transform = "{0.827, 0, 0, 0.828, 570, 208}";
+name = caron.alt;
+transform = "{1, 0, 0, 1, 635, -125}";
 }
 );
 layerId = UUID0;
@@ -4728,8 +4728,8 @@ name = L;
 transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
-name = quoteright;
-transform = "{0.810, 0, 0, 0.811, 539, 229}";
+name = caron.alt;
+transform = "{1, 0, 0, 1, 595, -125}";
 }
 );
 layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
@@ -11889,7 +11889,7 @@ unicode = 00F0;
 },
 {
 glyphname = dcaron;
-lastChange = "2014-11-22 20:02:40 +0000";
+lastChange = "2014-12-31 00:39:51 +0000";
 layers = (
 {
 background = {
@@ -11986,8 +11986,8 @@ nodes = (
 };
 components = (
 {
-name = quoteright;
-transform = "{0.827, 0, 0, 0.828, 743, 311}";
+name = caron.alt;
+transform = "{1, 0, 0, 1, 815, 0}";
 }
 );
 layerId = UUID0;
@@ -12058,8 +12058,8 @@ width = 1228;
 {
 components = (
 {
-name = quoteright;
-transform = "{0.810, 0, 0, 0.811, 749, 332}";
+name = caron.alt;
+transform = "{1, 0, 0, 1, 807, 0}";
 }
 );
 layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
@@ -16410,7 +16410,7 @@ unicode = 013A;
 {
 color = 9;
 glyphname = lcaron;
-lastChange = "2014-11-18 00:45:10 +0000";
+lastChange = "2014-12-31 00:39:57 +0000";
 layers = (
 {
 background = {
@@ -16482,13 +16482,12 @@ nodes = (
 components = (
 {
 disableAlignment = 1;
-name = quoteright;
-transform = "{0.827, 0, 0, 0.828, 493, 311}";
-},
-{
-disableAlignment = 1;
 name = l;
 transform = "{1, 0, 0, 1, -40, 0}";
+},
+{
+name = caron.alt;
+transform = "{1, 0, 0, 1, 565, 0}";
 }
 );
 layerId = UUID0;
@@ -16565,13 +16564,12 @@ nodes = (
 components = (
 {
 disableAlignment = 1;
-name = quoteright;
-transform = "{0.810, 0, 0, 0.811, 489, 332}";
-},
-{
-disableAlignment = 1;
 name = l;
 transform = "{1, 0, 0, 1, -30, 0}";
+},
+{
+name = caron.alt;
+transform = "{1, 0, 0, 1, 547, 0}";
 }
 );
 layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
@@ -38832,6 +38830,66 @@ width = 1228;
 }
 );
 unicode = 02C7;
+},
+{
+glyphname = caron.alt;
+lastChange = "2014-12-31 00:40:34 +0000";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+paths = (
+{
+closed = 1;
+nodes = (
+"533 1312 LINE SMOOTH",
+"510 1312 OFFCURVE",
+"493 1301 OFFCURVE",
+"485 1280 CURVE SMOOTH",
+"344 918 LINE SMOOTH",
+"331 883 OFFCURVE",
+"348 862 OFFCURVE",
+"386 862 CURVE SMOOTH",
+"415 862 OFFCURVE",
+"438 874 OFFCURVE",
+"454 897 CURVE SMOOTH",
+"700 1261 LINE SMOOTH",
+"720 1290 OFFCURVE",
+"713 1312 OFFCURVE",
+"686 1312 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+paths = (
+{
+closed = 1;
+nodes = (
+"502 1312 LINE SMOOTH",
+"479 1312 OFFCURVE",
+"461 1300 OFFCURVE",
+"453 1279 CURVE SMOOTH",
+"314 888 LINE SMOOTH",
+"297 840 OFFCURVE",
+"318 817 OFFCURVE",
+"373 817 CURVE SMOOTH",
+"423 817 OFFCURVE",
+"451 830 OFFCURVE",
+"475 867 CURVE SMOOTH",
+"730 1260 LINE SMOOTH",
+"749 1289 OFFCURVE",
+"743 1312 OFFCURVE",
+"716 1312 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+}
+);
 },
 {
 color = 4;
