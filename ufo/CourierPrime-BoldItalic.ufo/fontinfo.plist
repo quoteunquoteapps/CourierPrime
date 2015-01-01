@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>1187</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2014 Quote-Unquote Apps.</string>
+	<string>Copyright (c) 2015 Quote-Unquote Apps.</string>
 	<key>descender</key>
 	<integer>-643</integer>
 	<key>familyName</key>
@@ -15,13 +15,13 @@
 	<key>italicAngle</key>
 	<real>-10</real>
 	<key>openTypeHeadCreated</key>
-	<string>2014/11/12 22:26:51</string>
+	<string>2015/01/01 22:26:51</string>
 	<key>openTypeNameDesigner</key>
 	<string>Alan Dague-Greene</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>http://basicrecipe.com</string>
 	<key>openTypeNameLicense</key>
-	<string>Copyright (c) 2014
+	<string>Copyright (c) 2015
 Quote-Unquote Apps (http://quoteunquoteapps.com)
 with Reserved Font Name Courier Prime.
 
@@ -165,7 +165,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>2</integer>
+	<integer>3</integer>
 	<key>xHeight</key>
 	<integer>924</integer>
 </dict>

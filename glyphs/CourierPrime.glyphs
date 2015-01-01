@@ -6,7 +6,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2014 Quote-Unquote Apps.";
+copyright = "Copyright (c) 2015 Quote-Unquote Apps.";
 customParameters = (
 {
 name = openTypeNameLicenseURL;
@@ -14,14 +14,14 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = openTypeNameLicense;
-value = "Copyright (c) 2014\012Quote-Unquote Apps (http://quoteunquoteapps.com)\012with Reserved Font Name Courier Prime.\012\012This Font Software is licensed under the SIL Open Font License\012Version 1.1. This license is copied below\012and is also available with a FAQ at: http://scripts.sil.org/OFL\012\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects\012to support the font creation efforts of academic and linguistic communities\012and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\012\012The OFL allows the licensed fonts to be used\012studied\012modified and redistributed freely as long as they are not sold by themselves. The fonts\012including any derivative works\012can be bundled\012embedded\012redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives\012however\012cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files\012build scripts and documentation.\012\012\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\012\012\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\012\012\"Modified Version\" refers to any derivative made by adding to\012deleting\012or substituting -- in part or in whole -- any of the components of the Original Version\012by changing formats or by porting the Font Software to a new environment.\012\012\"Author\" refers to any designer\012engineer\012programmer\012technical writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted\012free of charge\012to any person obtaining a copy of the Font Software\012to use\012study\012copy\012merge\012embed\012modify\012redistribute\012and sell modified and unmodified copies of the Font Software\012subject to the following conditions:\012\0121) Neither the Font Software nor any of its individual components\012in Original or Modified Versions\012may be sold by itself.\012\0122) Original or Modified Versions of the Font Software may be bundled\012redistributed and/or sold with any software\012provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files\012human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012\0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012\0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote\012endorse or advertise any Modified Version\012except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012\0125) The Font Software\012modified or unmodified\012in part or in whole\012must be distributed entirely under this license\012and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED \"AS IS\"\012WITHOUT WARRANTY OF ANY KIND\012EXPRESS OR IMPLIED\012INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY\012FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT\012PATENT\012TRADEMARK\012OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM\012DAMAGES OR OTHER LIABILITY\012INCLUDING ANY GENERAL\012SPECIAL\012INDIRECT\012INCIDENTAL\012OR CONSEQUENTIAL DAMAGES\012WHETHER IN AN ACTION OF CONTRACT\012TORT OR OTHERWISE\012ARISING FROM\012OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
+value = "Copyright (c) 2015\012Quote-Unquote Apps (http://quoteunquoteapps.com)\012with Reserved Font Name Courier Prime.\012\012This Font Software is licensed under the SIL Open Font License\012Version 1.1. This license is copied below\012and is also available with a FAQ at: http://scripts.sil.org/OFL\012\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects\012to support the font creation efforts of academic and linguistic communities\012and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\012\012The OFL allows the licensed fonts to be used\012studied\012modified and redistributed freely as long as they are not sold by themselves. The fonts\012including any derivative works\012can be bundled\012embedded\012redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives\012however\012cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files\012build scripts and documentation.\012\012\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\012\012\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\012\012\"Modified Version\" refers to any derivative made by adding to\012deleting\012or substituting -- in part or in whole -- any of the components of the Original Version\012by changing formats or by porting the Font Software to a new environment.\012\012\"Author\" refers to any designer\012engineer\012programmer\012technical writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted\012free of charge\012to any person obtaining a copy of the Font Software\012to use\012study\012copy\012merge\012embed\012modify\012redistribute\012and sell modified and unmodified copies of the Font Software\012subject to the following conditions:\012\0121) Neither the Font Software nor any of its individual components\012in Original or Modified Versions\012may be sold by itself.\012\0122) Original or Modified Versions of the Font Software may be bundled\012redistributed and/or sold with any software\012provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files\012human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012\0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012\0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote\012endorse or advertise any Modified Version\012except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012\0125) The Font Software\012modified or unmodified\012in part or in whole\012must be distributed entirely under this license\012and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED \"AS IS\"\012WITHOUT WARRANTY OF ANY KIND\012EXPRESS OR IMPLIED\012INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY\012FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT\012PATENT\012TRADEMARK\012OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM\012DAMAGES OR OTHER LIABILITY\012INCLUDING ANY GENERAL\012SPECIAL\012INDIRECT\012INCIDENTAL\012OR CONSEQUENTIAL DAMAGES\012WHETHER IN AN ACTION OF CONTRACT\012TORT OR OTHERWISE\012ARISING FROM\012OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
 },
 {
 name = openTypeOS2VendorID;
 value = QUQA;
 }
 );
-date = "2014-11-13 04:43:13 +0000";
+date = "2015-01-02 01:27:00 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Courier Prime";
@@ -11122,7 +11122,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2014-11-13 04:54:09 +0000";
+lastChange = "2015-01-01 08:02:06 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -11131,6 +11131,14 @@ paths = (
 {
 closed = 1;
 nodes = (
+"100 1312 LINE SMOOTH",
+"55 1312 OFFCURVE",
+"37 1294 OFFCURVE",
+"37 1244 CURVE SMOOTH",
+"37 1194 OFFCURVE",
+"55 1176 OFFCURVE",
+"100 1176 CURVE SMOOTH",
+"202 1176 LINE",
 "202 136 LINE",
 "120 136 LINE SMOOTH",
 "75 136 OFFCURVE",
@@ -11159,23 +11167,12 @@ nodes = (
 "352 1244 LINE SMOOTH",
 "352 1294 OFFCURVE",
 "334 1312 OFFCURVE",
-"289 1312 CURVE SMOOTH",
-"100 1312 LINE SMOOTH",
-"55 1312 OFFCURVE",
-"37 1294 OFFCURVE",
-"37 1244 CURVE SMOOTH",
-"37 1194 OFFCURVE",
-"55 1176 OFFCURVE",
-"100 1176 CURVE SMOOTH",
-"202 1176 LINE"
+"289 1312 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"352 674 OFFCURVE",
-"482 798 OFFCURVE",
-"659 798 CURVE SMOOTH",
 "840 798 OFFCURVE",
 "943 658 OFFCURVE",
 "943 462 CURVE SMOOTH",
@@ -11184,7 +11181,10 @@ nodes = (
 "659 126 CURVE SMOOTH",
 "482 126 OFFCURVE",
 "352 250 OFFCURVE",
-"352 462 CURVE SMOOTH"
+"352 462 CURVE SMOOTH",
+"352 674 OFFCURVE",
+"482 798 OFFCURVE",
+"659 798 CURVE SMOOTH"
 );
 }
 );
@@ -11197,6 +11197,14 @@ paths = (
 {
 closed = 1;
 nodes = (
+"90 1312 LINE SMOOTH",
+"45 1312 OFFCURVE",
+"27 1294 OFFCURVE",
+"27 1209 CURVE SMOOTH",
+"27 1124 OFFCURVE",
+"45 1107 OFFCURVE",
+"90 1107 CURVE SMOOTH",
+"187 1107 LINE",
 "187 205 LINE",
 "110 205 LINE SMOOTH",
 "65 205 OFFCURVE",
@@ -11225,23 +11233,12 @@ nodes = (
 "437 1249 LINE SMOOTH",
 "437 1294 OFFCURVE",
 "419 1312 OFFCURVE",
-"374 1312 CURVE SMOOTH",
-"90 1312 LINE SMOOTH",
-"45 1312 OFFCURVE",
-"27 1294 OFFCURVE",
-"27 1209 CURVE SMOOTH",
-"27 1124 OFFCURVE",
-"45 1107 OFFCURVE",
-"90 1107 CURVE SMOOTH",
-"187 1107 LINE"
+"374 1312 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"430 628 OFFCURVE",
-"535 719 OFFCURVE",
-"660 719 CURVE SMOOTH",
 "785 719 OFFCURVE",
 "863 618 OFFCURVE",
 "863 462 CURVE SMOOTH",
@@ -11250,7 +11247,10 @@ nodes = (
 "660 205 CURVE SMOOTH",
 "535 205 OFFCURVE",
 "430 296 OFFCURVE",
-"430 462 CURVE SMOOTH"
+"430 462 CURVE SMOOTH",
+"430 628 OFFCURVE",
+"535 719 OFFCURVE",
+"660 719 CURVE SMOOTH"
 );
 }
 );
@@ -11730,7 +11730,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2014-11-13 04:54:09 +0000";
+lastChange = "2015-01-01 08:04:30 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -11739,27 +11739,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1026 136 LINE",
-"1026 1244 LINE SMOOTH",
-"1026 1294 OFFCURVE",
-"1008 1312 OFFCURVE",
-"963 1312 CURVE SMOOTH",
-"674 1312 LINE SMOOTH",
-"629 1312 OFFCURVE",
-"611 1294 OFFCURVE",
-"611 1244 CURVE SMOOTH",
-"611 1194 OFFCURVE",
-"629 1176 OFFCURVE",
-"674 1176 CURVE SMOOTH",
+"714 1312 LINE SMOOTH",
+"669 1312 OFFCURVE",
+"651 1294 OFFCURVE",
+"651 1244 CURVE SMOOTH",
+"651 1194 OFFCURVE",
+"669 1176 OFFCURVE",
+"714 1176 CURVE SMOOTH",
 "876 1176 LINE",
-"876 740 LINE",
-"797 839 OFFCURVE",
-"692 896 OFFCURVE",
-"559 896 CURVE SMOOTH",
-"312 896 OFFCURVE",
-"127 724 OFFCURVE",
-"127 437 CURVE SMOOTH",
-"127 150 OFFCURVE",
+"876 781 LINE",
+"796 883 OFFCURVE",
+"692 946 OFFCURVE",
+"559 946 CURVE SMOOTH",
+"312 946 OFFCURVE",
+"127 764 OFFCURVE",
+"127 462 CURVE SMOOTH",
+"127 160 OFFCURVE",
 "312 -22 OFFCURVE",
 "559 -22 CURVE SMOOTH",
 "692 -22 OFFCURVE",
@@ -11775,24 +11770,29 @@ nodes = (
 "1171 68 CURVE SMOOTH",
 "1171 118 OFFCURVE",
 "1153 136 OFFCURVE",
-"1108 136 CURVE SMOOTH"
+"1108 136 CURVE SMOOTH",
+"1026 136 LINE",
+"1026 1244 LINE SMOOTH",
+"1026 1294 OFFCURVE",
+"1008 1312 OFFCURVE",
+"963 1312 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"876 240 OFFCURVE",
+"746 798 OFFCURVE",
+"876 674 OFFCURVE",
+"876 462 CURVE SMOOTH",
+"876 250 OFFCURVE",
 "746 126 OFFCURVE",
 "569 126 CURVE SMOOTH",
 "388 126 OFFCURVE",
-"285 256 OFFCURVE",
-"285 437 CURVE SMOOTH",
-"285 618 OFFCURVE",
-"388 748 OFFCURVE",
-"569 748 CURVE SMOOTH",
-"746 748 OFFCURVE",
-"876 634 OFFCURVE",
-"876 437 CURVE SMOOTH"
+"285 266 OFFCURVE",
+"285 462 CURVE SMOOTH",
+"285 658 OFFCURVE",
+"388 798 OFFCURVE",
+"569 798 CURVE SMOOTH"
 );
 }
 );
@@ -11805,60 +11805,60 @@ paths = (
 {
 closed = 1;
 nodes = (
-"1041 205 LINE",
-"1041 1249 LINE SMOOTH",
-"1041 1294 OFFCURVE",
-"1023 1312 OFFCURVE",
-"978 1312 CURVE SMOOTH",
-"594 1312 LINE SMOOTH",
-"549 1312 OFFCURVE",
-"531 1294 OFFCURVE",
-"531 1209 CURVE SMOOTH",
-"531 1124 OFFCURVE",
-"549 1107 OFFCURVE",
-"594 1107 CURVE SMOOTH",
+"644 1312 LINE SMOOTH",
+"599 1312 OFFCURVE",
+"581 1294 OFFCURVE",
+"581 1209 CURVE SMOOTH",
+"581 1124 OFFCURVE",
+"599 1107 OFFCURVE",
+"644 1107 CURVE SMOOTH",
 "791 1107 LINE",
-"791 801 LINE",
-"724 874 OFFCURVE",
-"633 916 OFFCURVE",
-"528 916 CURVE SMOOTH",
-"264 916 OFFCURVE",
-"97 717 OFFCURVE",
-"97 447 CURVE SMOOTH",
-"97 177 OFFCURVE",
-"264 -22 OFFCURVE",
+"791 828 LINE",
+"724 902 OFFCURVE",
+"634 946 OFFCURVE",
+"528 946 CURVE SMOOTH",
+"259 946 OFFCURVE",
+"97 732 OFFCURVE",
+"97 462 CURVE SMOOTH",
+"97 192 OFFCURVE",
+"259 -22 OFFCURVE",
 "528 -22 CURVE SMOOTH",
 "656 -22 OFFCURVE",
-"762 34 OFFCURVE",
-"831 132 CURVE",
+"763 42 OFFCURVE",
+"831 147 CURVE",
 "831 63 LINE SMOOTH",
 "831 18 OFFCURVE",
 "849 0 OFFCURVE",
-"894 0 CURVE SMOOTH",
+"894 0 CURVE",
 "1128 0 LINE SMOOTH",
 "1173 0 OFFCURVE",
 "1191 18 OFFCURVE",
 "1191 103 CURVE SMOOTH",
 "1191 188 OFFCURVE",
 "1173 205 OFFCURVE",
-"1128 205 CURVE SMOOTH"
+"1128 205 CURVE SMOOTH",
+"1041 205 LINE",
+"1041 1249 LINE SMOOTH",
+"1041 1294 OFFCURVE",
+"1023 1312 OFFCURVE",
+"978 1312 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"798 285 OFFCURVE",
+"693 719 OFFCURVE",
+"798 628 OFFCURVE",
+"798 462 CURVE SMOOTH",
+"798 296 OFFCURVE",
 "693 205 OFFCURVE",
 "568 205 CURVE SMOOTH",
-"446 205 OFFCURVE",
-"365 291 OFFCURVE",
-"365 447 CURVE SMOOTH",
-"365 603 OFFCURVE",
-"446 689 OFFCURVE",
-"568 689 CURVE SMOOTH",
-"693 689 OFFCURVE",
-"798 609 OFFCURVE",
-"798 447 CURVE SMOOTH"
+"443 205 OFFCURVE",
+"365 306 OFFCURVE",
+"365 462 CURVE SMOOTH",
+"365 618 OFFCURVE",
+"443 719 OFFCURVE",
+"568 719 CURVE SMOOTH"
 );
 }
 );
@@ -12034,7 +12034,7 @@ unicode = 00F0;
 },
 {
 glyphname = dcaron;
-lastChange = "2014-11-25 00:56:02 +0000";
+lastChange = "2015-01-01 08:31:55 +0000";
 layers = (
 {
 background = {
@@ -12073,27 +12073,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"594 1312 LINE SMOOTH",
-"549 1312 OFFCURVE",
-"531 1294 OFFCURVE",
-"531 1244 CURVE SMOOTH",
-"531 1194 OFFCURVE",
-"549 1176 OFFCURVE",
-"594 1176 CURVE SMOOTH",
+"614 1312 LINE SMOOTH",
+"569 1312 OFFCURVE",
+"551 1294 OFFCURVE",
+"551 1244 CURVE SMOOTH",
+"551 1194 OFFCURVE",
+"569 1176 OFFCURVE",
+"614 1176 CURVE SMOOTH",
 "776 1176 LINE",
-"776 755 LINE",
-"716 842 OFFCURVE",
-"630 896 OFFCURVE",
-"509 896 CURVE SMOOTH",
-"292 896 OFFCURVE",
-"127 724 OFFCURVE",
-"127 437 CURVE SMOOTH",
-"127 150 OFFCURVE",
+"776 785 LINE",
+"716 884 OFFCURVE",
+"630 946 OFFCURVE",
+"509 946 CURVE SMOOTH",
+"292 946 OFFCURVE",
+"127 764 OFFCURVE",
+"127 462 CURVE SMOOTH",
+"127 160 OFFCURVE",
 "292 -22 OFFCURVE",
 "509 -22 CURVE SMOOTH",
 "639 -22 OFFCURVE",
-"726 44 OFFCURVE",
-"786 138 CURVE",
+"726 46 OFFCURVE",
+"786 143 CURVE",
 "786 68 LINE SMOOTH",
 "786 18 OFFCURVE",
 "804 0 OFFCURVE",
@@ -12115,18 +12115,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"676 748 OFFCURVE",
-"776 634 OFFCURVE",
-"776 437 CURVE SMOOTH",
-"776 240 OFFCURVE",
+"676 798 OFFCURVE",
+"776 674 OFFCURVE",
+"776 462 CURVE SMOOTH",
+"776 250 OFFCURVE",
 "676 126 OFFCURVE",
 "519 126 CURVE SMOOTH",
 "368 126 OFFCURVE",
-"285 256 OFFCURVE",
-"285 437 CURVE SMOOTH",
-"285 618 OFFCURVE",
-"368 748 OFFCURVE",
-"519 748 CURVE SMOOTH"
+"285 266 OFFCURVE",
+"285 462 CURVE SMOOTH",
+"285 658 OFFCURVE",
+"368 798 OFFCURVE",
+"519 798 CURVE SMOOTH"
 );
 }
 );
@@ -12169,27 +12169,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"504 1312 LINE SMOOTH",
-"459 1312 OFFCURVE",
-"441 1294 OFFCURVE",
-"441 1209 CURVE SMOOTH",
-"441 1124 OFFCURVE",
-"459 1107 OFFCURVE",
-"504 1107 CURVE SMOOTH",
+"524 1312 LINE SMOOTH",
+"479 1312 OFFCURVE",
+"461 1294 OFFCURVE",
+"461 1209 CURVE SMOOTH",
+"461 1124 OFFCURVE",
+"479 1107 OFFCURVE",
+"524 1107 CURVE SMOOTH",
 "671 1107 LINE",
-"671 801 LINE",
-"614 874 OFFCURVE",
-"553 916 OFFCURVE",
-"458 916 CURVE SMOOTH",
-"224 916 OFFCURVE",
-"77 717 OFFCURVE",
-"77 447 CURVE SMOOTH",
-"77 177 OFFCURVE",
+"671 827 LINE",
+"614 902 OFFCURVE",
+"553 946 OFFCURVE",
+"458 946 CURVE SMOOTH",
+"224 946 OFFCURVE",
+"77 741 OFFCURVE",
+"77 462 CURVE SMOOTH",
+"77 183 OFFCURVE",
 "224 -22 OFFCURVE",
 "458 -22 CURVE SMOOTH",
 "576 -22 OFFCURVE",
-"652 34 OFFCURVE",
-"711 132 CURVE",
+"652 36 OFFCURVE",
+"711 137 CURVE",
 "711 63 LINE SMOOTH",
 "711 18 OFFCURVE",
 "729 0 OFFCURVE",
@@ -12211,18 +12211,18 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"603 689 OFFCURVE",
-"678 609 OFFCURVE",
-"678 447 CURVE SMOOTH",
-"678 285 OFFCURVE",
+"603 719 OFFCURVE",
+"678 635 OFFCURVE",
+"678 462 CURVE SMOOTH",
+"678 290 OFFCURVE",
 "603 205 OFFCURVE",
 "498 205 CURVE SMOOTH",
 "406 205 OFFCURVE",
-"345 291 OFFCURVE",
-"345 447 CURVE SMOOTH",
-"345 603 OFFCURVE",
-"406 689 OFFCURVE",
-"498 689 CURVE SMOOTH"
+"345 297 OFFCURVE",
+"345 462 CURVE SMOOTH",
+"345 627 OFFCURVE",
+"406 719 OFFCURVE",
+"498 719 CURVE SMOOTH"
 );
 }
 );
@@ -13274,7 +13274,7 @@ unicode = 0066;
 },
 {
 glyphname = g;
-lastChange = "2014-11-23 16:46:38 +0000";
+lastChange = "2015-01-01 08:14:03 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -13294,21 +13294,21 @@ nodes = (
 "876 184 CURVE",
 "876 -17 LINE SMOOTH",
 "876 -164 OFFCURVE",
-"788 -262 OFFCURVE",
-"603 -262 CURVE SMOOTH",
-"497 -262 OFFCURVE",
-"379 -241 OFFCURVE",
-"279 -206 CURVE SMOOTH",
-"245 -194 OFFCURVE",
-"217 -207 OFFCURVE",
-"200 -257 CURVE SMOOTH",
-"183 -308 OFFCURVE",
-"195 -337 OFFCURVE",
-"231 -350 CURVE SMOOTH",
-"344 -391 OFFCURVE",
-"479 -410 OFFCURVE",
-"603 -410 CURVE SMOOTH",
-"871 -410 OFFCURVE",
+"787 -262 OFFCURVE",
+"598 -262 CURVE SMOOTH",
+"490 -262 OFFCURVE",
+"370 -238 OFFCURVE",
+"269 -202 CURVE SMOOTH",
+"235 -190 OFFCURVE",
+"207 -203 OFFCURVE",
+"190 -253 CURVE SMOOTH",
+"173 -304 OFFCURVE",
+"185 -333 OFFCURVE",
+"221 -346 CURVE SMOOTH",
+"336 -388 OFFCURVE",
+"472 -410 OFFCURVE",
+"598 -410 CURVE SMOOTH",
+"869 -410 OFFCURVE",
 "1026 -269 OFFCURVE",
 "1026 -30 CURVE SMOOTH",
 "1026 788 LINE",
@@ -17536,7 +17536,7 @@ unicode = 0153;
 },
 {
 glyphname = p;
-lastChange = "2014-11-16 17:03:38 +0000";
+lastChange = "2015-01-01 08:11:57 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -17561,29 +17561,29 @@ nodes = (
 "120 788 CURVE SMOOTH",
 "202 788 LINE",
 "202 -252 LINE",
-"90 -252 LINE SMOOTH",
-"45 -252 OFFCURVE",
-"27 -270 OFFCURVE",
-"27 -320 CURVE SMOOTH",
-"27 -370 OFFCURVE",
-"45 -388 OFFCURVE",
-"90 -388 CURVE SMOOTH",
-"574 -388 LINE SMOOTH",
-"619 -388 OFFCURVE",
-"637 -370 OFFCURVE",
-"637 -320 CURVE SMOOTH",
-"637 -270 OFFCURVE",
-"619 -252 OFFCURVE",
-"574 -252 CURVE SMOOTH",
+"100 -252 LINE SMOOTH",
+"55 -252 OFFCURVE",
+"37 -270 OFFCURVE",
+"37 -320 CURVE SMOOTH",
+"37 -370 OFFCURVE",
+"55 -388 OFFCURVE",
+"100 -388 CURVE SMOOTH",
+"524 -388 LINE SMOOTH",
+"569 -388 OFFCURVE",
+"587 -370 OFFCURVE",
+"587 -320 CURVE SMOOTH",
+"587 -270 OFFCURVE",
+"569 -252 OFFCURVE",
+"524 -252 CURVE SMOOTH",
 "352 -252 LINE",
-"352 184 LINE",
-"431 85 OFFCURVE",
-"536 28 OFFCURVE",
-"669 28 CURVE SMOOTH",
-"916 28 OFFCURVE",
-"1101 200 OFFCURVE",
-"1101 487 CURVE SMOOTH",
-"1101 774 OFFCURVE",
+"352 143 LINE",
+"432 41 OFFCURVE",
+"536 -22 OFFCURVE",
+"669 -22 CURVE SMOOTH",
+"916 -22 OFFCURVE",
+"1101 160 OFFCURVE",
+"1101 462 CURVE SMOOTH",
+"1101 764 OFFCURVE",
 "916 946 OFFCURVE",
 "669 946 CURVE SMOOTH"
 );
@@ -17592,15 +17592,15 @@ nodes = (
 closed = 1;
 nodes = (
 "840 798 OFFCURVE",
-"943 668 OFFCURVE",
-"943 487 CURVE SMOOTH",
-"943 306 OFFCURVE",
-"840 176 OFFCURVE",
-"659 176 CURVE SMOOTH",
-"482 176 OFFCURVE",
-"352 290 OFFCURVE",
-"352 487 CURVE SMOOTH",
-"352 684 OFFCURVE",
+"943 658 OFFCURVE",
+"943 462 CURVE SMOOTH",
+"943 266 OFFCURVE",
+"840 126 OFFCURVE",
+"659 126 CURVE SMOOTH",
+"482 126 OFFCURVE",
+"352 250 OFFCURVE",
+"352 462 CURVE SMOOTH",
+"352 674 OFFCURVE",
 "482 798 OFFCURVE",
 "659 798 CURVE SMOOTH"
 );
@@ -17616,8 +17616,8 @@ paths = (
 closed = 1;
 nodes = (
 "572 946 OFFCURVE",
-"465 890 OFFCURVE",
-"397 791 CURVE",
+"465 882 OFFCURVE",
+"397 777 CURVE",
 "397 861 LINE SMOOTH",
 "397 906 OFFCURVE",
 "379 924 OFFCURVE",
@@ -17638,39 +17638,39 @@ nodes = (
 "37 -371 OFFCURVE",
 "55 -388 OFFCURVE",
 "100 -388 CURVE SMOOTH",
-"684 -388 LINE SMOOTH",
-"729 -388 OFFCURVE",
-"747 -371 OFFCURVE",
-"747 -286 CURVE SMOOTH",
-"747 -201 OFFCURVE",
-"729 -183 OFFCURVE",
-"684 -183 CURVE SMOOTH",
+"604 -388 LINE SMOOTH",
+"649 -388 OFFCURVE",
+"667 -370 OFFCURVE",
+"667 -285 CURVE SMOOTH",
+"667 -200 OFFCURVE",
+"649 -183 OFFCURVE",
+"604 -183 CURVE SMOOTH",
 "437 -183 LINE",
-"437 123 LINE",
-"504 50 OFFCURVE",
-"594 8 OFFCURVE",
-"700 8 CURVE SMOOTH",
-"964 8 OFFCURVE",
-"1131 207 OFFCURVE",
-"1131 477 CURVE SMOOTH",
-"1131 747 OFFCURVE",
-"964 946 OFFCURVE",
+"437 96 LINE",
+"504 22 OFFCURVE",
+"594 -22 OFFCURVE",
+"700 -22 CURVE SMOOTH",
+"969 -22 OFFCURVE",
+"1131 192 OFFCURVE",
+"1131 462 CURVE SMOOTH",
+"1131 732 OFFCURVE",
+"969 946 OFFCURVE",
 "700 946 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"782 719 OFFCURVE",
-"863 633 OFFCURVE",
-"863 477 CURVE SMOOTH",
-"863 321 OFFCURVE",
-"782 235 OFFCURVE",
-"660 235 CURVE SMOOTH",
-"535 235 OFFCURVE",
-"430 315 OFFCURVE",
-"430 477 CURVE SMOOTH",
-"430 639 OFFCURVE",
+"785 719 OFFCURVE",
+"863 618 OFFCURVE",
+"863 462 CURVE SMOOTH",
+"863 306 OFFCURVE",
+"785 205 OFFCURVE",
+"660 205 CURVE SMOOTH",
+"535 205 OFFCURVE",
+"430 296 OFFCURVE",
+"430 462 CURVE SMOOTH",
+"430 628 OFFCURVE",
 "535 719 OFFCURVE",
 "660 719 CURVE SMOOTH"
 );
@@ -17683,7 +17683,7 @@ unicode = 0070;
 },
 {
 glyphname = thorn;
-lastChange = "2014-11-16 17:03:42 +0000";
+lastChange = "2015-01-01 08:28:10 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -17701,34 +17701,34 @@ nodes = (
 "120 1176 CURVE SMOOTH",
 "202 1176 LINE",
 "202 -252 LINE",
-"90 -252 LINE SMOOTH",
-"45 -252 OFFCURVE",
-"27 -270 OFFCURVE",
-"27 -320 CURVE SMOOTH",
-"27 -370 OFFCURVE",
-"45 -388 OFFCURVE",
-"90 -388 CURVE SMOOTH",
-"574 -388 LINE SMOOTH",
-"619 -388 OFFCURVE",
-"637 -370 OFFCURVE",
-"637 -320 CURVE SMOOTH",
-"637 -270 OFFCURVE",
-"619 -252 OFFCURVE",
-"574 -252 CURVE SMOOTH",
+"100 -252 LINE SMOOTH",
+"55 -252 OFFCURVE",
+"37 -270 OFFCURVE",
+"37 -320 CURVE SMOOTH",
+"37 -370 OFFCURVE",
+"55 -388 OFFCURVE",
+"100 -388 CURVE SMOOTH",
+"524 -388 LINE SMOOTH",
+"569 -388 OFFCURVE",
+"587 -370 OFFCURVE",
+"587 -320 CURVE SMOOTH",
+"587 -270 OFFCURVE",
+"569 -252 OFFCURVE",
+"524 -252 CURVE SMOOTH",
 "352 -252 LINE",
-"352 184 LINE",
-"431 85 OFFCURVE",
-"536 28 OFFCURVE",
-"669 28 CURVE SMOOTH",
-"916 28 OFFCURVE",
-"1101 200 OFFCURVE",
-"1101 487 CURVE SMOOTH",
-"1101 774 OFFCURVE",
+"352 143 LINE",
+"432 41 OFFCURVE",
+"536 -22 OFFCURVE",
+"669 -22 CURVE SMOOTH",
+"916 -22 OFFCURVE",
+"1101 160 OFFCURVE",
+"1101 462 CURVE SMOOTH",
+"1101 764 OFFCURVE",
 "916 946 OFFCURVE",
 "669 946 CURVE SMOOTH",
-"541 946 OFFCURVE",
-"433 891 OFFCURVE",
-"352 793 CURVE",
+"536 946 OFFCURVE",
+"432 883 OFFCURVE",
+"352 781 CURVE",
 "352 1244 LINE SMOOTH",
 "352 1294 OFFCURVE",
 "334 1312 OFFCURVE",
@@ -17739,15 +17739,15 @@ nodes = (
 closed = 1;
 nodes = (
 "840 798 OFFCURVE",
-"943 668 OFFCURVE",
-"943 487 CURVE SMOOTH",
-"943 306 OFFCURVE",
-"840 176 OFFCURVE",
-"659 176 CURVE SMOOTH",
-"482 176 OFFCURVE",
-"352 290 OFFCURVE",
-"352 487 CURVE SMOOTH",
-"352 684 OFFCURVE",
+"943 658 OFFCURVE",
+"943 462 CURVE SMOOTH",
+"943 266 OFFCURVE",
+"840 126 OFFCURVE",
+"659 126 CURVE SMOOTH",
+"482 126 OFFCURVE",
+"352 250 OFFCURVE",
+"352 462 CURVE SMOOTH",
+"352 674 OFFCURVE",
 "482 798 OFFCURVE",
 "659 798 CURVE SMOOTH"
 );
@@ -17778,27 +17778,27 @@ nodes = (
 "37 -371 OFFCURVE",
 "55 -388 OFFCURVE",
 "100 -388 CURVE SMOOTH",
-"684 -388 LINE SMOOTH",
-"729 -388 OFFCURVE",
-"747 -371 OFFCURVE",
-"747 -286 CURVE SMOOTH",
-"747 -201 OFFCURVE",
-"729 -183 OFFCURVE",
-"684 -183 CURVE SMOOTH",
+"604 -388 LINE SMOOTH",
+"649 -388 OFFCURVE",
+"667 -370 OFFCURVE",
+"667 -285 CURVE SMOOTH",
+"667 -200 OFFCURVE",
+"649 -183 OFFCURVE",
+"604 -183 CURVE SMOOTH",
 "437 -183 LINE",
-"437 123 LINE",
-"504 50 OFFCURVE",
-"594 8 OFFCURVE",
-"700 8 CURVE SMOOTH",
-"964 8 OFFCURVE",
-"1131 207 OFFCURVE",
-"1131 477 CURVE SMOOTH",
-"1131 747 OFFCURVE",
-"964 946 OFFCURVE",
+"437 96 LINE",
+"504 22 OFFCURVE",
+"594 -22 OFFCURVE",
+"700 -22 CURVE SMOOTH",
+"969 -22 OFFCURVE",
+"1131 192 OFFCURVE",
+"1131 462 CURVE SMOOTH",
+"1131 732 OFFCURVE",
+"969 946 OFFCURVE",
 "700 946 CURVE SMOOTH",
 "594 946 OFFCURVE",
-"504 903 OFFCURVE",
-"437 830 CURVE",
+"504 902 OFFCURVE",
+"437 828 CURVE",
 "437 1249 LINE SMOOTH",
 "437 1294 OFFCURVE",
 "419 1312 OFFCURVE",
@@ -17808,16 +17808,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"782 719 OFFCURVE",
-"863 633 OFFCURVE",
-"863 477 CURVE SMOOTH",
-"863 321 OFFCURVE",
-"782 235 OFFCURVE",
-"660 235 CURVE SMOOTH",
-"535 235 OFFCURVE",
-"430 315 OFFCURVE",
-"430 477 CURVE SMOOTH",
-"430 639 OFFCURVE",
+"785 719 OFFCURVE",
+"863 618 OFFCURVE",
+"863 462 CURVE SMOOTH",
+"863 306 OFFCURVE",
+"785 205 OFFCURVE",
+"660 205 CURVE SMOOTH",
+"535 205 OFFCURVE",
+"430 296 OFFCURVE",
+"430 462 CURVE SMOOTH",
+"430 628 OFFCURVE",
 "535 719 OFFCURVE",
 "660 719 CURVE SMOOTH"
 );
@@ -17830,7 +17830,7 @@ unicode = 00FE;
 },
 {
 glyphname = q;
-lastChange = "2014-11-16 17:03:47 +0000";
+lastChange = "2015-01-01 08:12:47 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -17840,29 +17840,29 @@ paths = (
 closed = 1;
 nodes = (
 "312 946 OFFCURVE",
-"127 774 OFFCURVE",
-"127 487 CURVE SMOOTH",
-"127 200 OFFCURVE",
-"312 28 OFFCURVE",
-"559 28 CURVE SMOOTH",
-"692 28 OFFCURVE",
-"797 85 OFFCURVE",
-"876 184 CURVE",
+"127 764 OFFCURVE",
+"127 462 CURVE SMOOTH",
+"127 160 OFFCURVE",
+"312 -22 OFFCURVE",
+"559 -22 CURVE SMOOTH",
+"692 -22 OFFCURVE",
+"796 41 OFFCURVE",
+"876 143 CURVE",
 "876 -252 LINE",
-"654 -252 LINE SMOOTH",
-"609 -252 OFFCURVE",
-"591 -270 OFFCURVE",
-"591 -320 CURVE SMOOTH",
-"591 -370 OFFCURVE",
-"609 -388 OFFCURVE",
-"654 -388 CURVE SMOOTH",
-"1138 -388 LINE SMOOTH",
-"1183 -388 OFFCURVE",
-"1201 -370 OFFCURVE",
-"1201 -320 CURVE SMOOTH",
-"1201 -270 OFFCURVE",
-"1183 -252 OFFCURVE",
-"1138 -252 CURVE SMOOTH",
+"704 -252 LINE SMOOTH",
+"659 -252 OFFCURVE",
+"641 -270 OFFCURVE",
+"641 -320 CURVE SMOOTH",
+"641 -370 OFFCURVE",
+"659 -388 OFFCURVE",
+"704 -388 CURVE SMOOTH",
+"1128 -388 LINE SMOOTH",
+"1173 -388 OFFCURVE",
+"1191 -370 OFFCURVE",
+"1191 -320 CURVE SMOOTH",
+"1191 -270 OFFCURVE",
+"1173 -252 OFFCURVE",
+"1128 -252 CURVE SMOOTH",
 "1026 -252 LINE",
 "1026 788 LINE",
 "1108 788 LINE SMOOTH",
@@ -17886,15 +17886,15 @@ nodes = (
 closed = 1;
 nodes = (
 "746 798 OFFCURVE",
-"876 684 OFFCURVE",
-"876 487 CURVE SMOOTH",
-"876 290 OFFCURVE",
-"746 176 OFFCURVE",
-"569 176 CURVE SMOOTH",
-"388 176 OFFCURVE",
-"285 306 OFFCURVE",
-"285 487 CURVE SMOOTH",
-"285 668 OFFCURVE",
+"876 674 OFFCURVE",
+"876 462 CURVE SMOOTH",
+"876 250 OFFCURVE",
+"746 126 OFFCURVE",
+"569 126 CURVE SMOOTH",
+"388 126 OFFCURVE",
+"285 266 OFFCURVE",
+"285 462 CURVE SMOOTH",
+"285 658 OFFCURVE",
 "388 798 OFFCURVE",
 "569 798 CURVE SMOOTH"
 );
@@ -17909,30 +17909,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"264 946 OFFCURVE",
-"97 747 OFFCURVE",
-"97 477 CURVE SMOOTH",
-"97 207 OFFCURVE",
-"264 8 OFFCURVE",
-"528 8 CURVE SMOOTH",
-"633 8 OFFCURVE",
-"724 50 OFFCURVE",
-"791 123 CURVE",
+"259 946 OFFCURVE",
+"97 732 OFFCURVE",
+"97 462 CURVE SMOOTH",
+"97 192 OFFCURVE",
+"259 -22 OFFCURVE",
+"528 -22 CURVE SMOOTH",
+"634 -22 OFFCURVE",
+"724 22 OFFCURVE",
+"791 96 CURVE",
 "791 -183 LINE",
-"574 -183 LINE SMOOTH",
-"529 -183 OFFCURVE",
-"511 -201 OFFCURVE",
-"511 -286 CURVE SMOOTH",
-"511 -371 OFFCURVE",
-"529 -388 OFFCURVE",
-"574 -388 CURVE SMOOTH",
-"1148 -388 LINE SMOOTH",
-"1193 -388 OFFCURVE",
-"1211 -371 OFFCURVE",
-"1211 -286 CURVE SMOOTH",
-"1211 -201 OFFCURVE",
-"1193 -183 OFFCURVE",
-"1148 -183 CURVE SMOOTH",
+"624 -183 LINE SMOOTH",
+"579 -183 OFFCURVE",
+"561 -200 OFFCURVE",
+"561 -285 CURVE SMOOTH",
+"561 -370 OFFCURVE",
+"579 -388 OFFCURVE",
+"624 -388 CURVE SMOOTH",
+"1128 -388 LINE SMOOTH",
+"1173 -388 OFFCURVE",
+"1191 -371 OFFCURVE",
+"1191 -286 CURVE SMOOTH",
+"1191 -201 OFFCURVE",
+"1173 -183 OFFCURVE",
+"1128 -183 CURVE SMOOTH",
 "1041 -183 LINE",
 "1041 719 LINE",
 "1128 719 LINE SMOOTH",
@@ -17946,8 +17946,8 @@ nodes = (
 "849 924 OFFCURVE",
 "831 906 OFFCURVE",
 "831 861 CURVE SMOOTH",
-"831 791 LINE",
-"762 890 OFFCURVE",
+"831 777 LINE",
+"763 882 OFFCURVE",
 "656 946 OFFCURVE",
 "528 946 CURVE SMOOTH"
 );
@@ -17956,16 +17956,16 @@ nodes = (
 closed = 1;
 nodes = (
 "693 719 OFFCURVE",
-"798 639 OFFCURVE",
-"798 477 CURVE SMOOTH",
-"798 315 OFFCURVE",
-"693 235 OFFCURVE",
-"568 235 CURVE SMOOTH",
-"446 235 OFFCURVE",
-"365 321 OFFCURVE",
-"365 477 CURVE SMOOTH",
-"365 633 OFFCURVE",
-"446 719 OFFCURVE",
+"798 628 OFFCURVE",
+"798 462 CURVE SMOOTH",
+"798 296 OFFCURVE",
+"693 205 OFFCURVE",
+"568 205 CURVE SMOOTH",
+"443 205 OFFCURVE",
+"365 306 OFFCURVE",
+"365 462 CURVE SMOOTH",
+"365 618 OFFCURVE",
+"443 719 OFFCURVE",
 "568 719 CURVE SMOOTH"
 );
 }
@@ -37638,5 +37638,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 2;
+versionMinor = 3;
 }
