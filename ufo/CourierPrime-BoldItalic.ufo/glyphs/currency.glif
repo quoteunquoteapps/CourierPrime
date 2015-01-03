@@ -65,15 +65,15 @@
       <point x="261" y="1064" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="1109" y="1113"/>
+      <point x="1084" y="1115"/>
+      <point x="1050" y="1086" type="curve" smooth="yes"/>
       <point x="773" y="854" type="line"/>
       <point x="915" y="679" type="line"/>
       <point x="1194" y="914" type="line" smooth="yes"/>
       <point x="1228" y="943"/>
       <point x="1232" y="967"/>
       <point x="1170" y="1040" type="curve" smooth="yes"/>
-      <point x="1109" y="1113"/>
-      <point x="1084" y="1115"/>
-      <point x="1050" y="1086" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
