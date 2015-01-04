@@ -21,7 +21,7 @@ name = openTypeOS2VendorID;
 value = QUQA;
 }
 );
-date = "2015-01-03 15:25:27 +0000";
+date = "2015-01-04 03:51:32 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Courier Prime";
@@ -6255,7 +6255,7 @@ unicode = 014C;
 {
 color = 6;
 glyphname = Oslash;
-lastChange = "2015-01-03 15:07:18 +0000";
+lastChange = "2015-01-04 03:47:54 +0000";
 layers = (
 {
 background = {
@@ -6269,6 +6269,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"1031 1280 OFFCURVE",
+"1002 1277 OFFCURVE",
+"976 1239 CURVE SMOOTH",
 "137 30 LINE SMOOTH",
 "111 -8 OFFCURVE",
 "117 -35 OFFCURVE",
@@ -6279,10 +6282,7 @@ nodes = (
 "1091 1159 LINE SMOOTH",
 "1116 1196 OFFCURVE",
 "1111 1224 OFFCURVE",
-"1071 1252 CURVE SMOOTH",
-"1031 1280 OFFCURVE",
-"1002 1277 OFFCURVE",
-"976 1239 CURVE SMOOTH"
+"1071 1252 CURVE SMOOTH"
 );
 }
 );
@@ -6374,6 +6374,9 @@ paths = (
 {
 closed = 1;
 nodes = (
+"1011 1291 OFFCURVE",
+"987 1287 OFFCURVE",
+"961 1250 CURVE SMOOTH",
 "115 44 LINE SMOOTH",
 "89 7 OFFCURVE",
 "94 -18 OFFCURVE",
@@ -6384,10 +6387,7 @@ nodes = (
 "1113 1143 LINE SMOOTH",
 "1139 1180 OFFCURVE",
 "1134 1205 OFFCURVE",
-"1073 1248 CURVE SMOOTH",
-"1011 1291 OFFCURVE",
-"987 1287 OFFCURVE",
-"961 1250 CURVE SMOOTH"
+"1073 1248 CURVE SMOOTH"
 );
 }
 );
@@ -37602,5 +37602,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 5;
+versionMinor = 6;
 }
