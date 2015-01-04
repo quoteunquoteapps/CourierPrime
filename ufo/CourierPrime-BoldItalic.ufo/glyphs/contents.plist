@@ -364,6 +364,8 @@
 	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>d.alt</key>
+	<string>d.alt.glif</string>
 	<key>dagger</key>
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
