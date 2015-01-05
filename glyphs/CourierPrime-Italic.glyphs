@@ -11623,7 +11623,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2015-01-04 18:35:06 +0000";
+lastChange = "2015-01-05 03:23:21 +0000";
 layers = (
 {
 background = {
@@ -11871,7 +11871,7 @@ nodes = (
 "894 541 CURVE SMOOTH",
 "894 335 OFFCURVE",
 "758 126 OFFCURVE",
-"521 126 CURVE",
+"521 126 CURVE SMOOTH",
 "368 126 OFFCURVE",
 "288 226 OFFCURVE",
 "288 375 CURVE SMOOTH",
@@ -12471,7 +12471,7 @@ unicode = 010F;
 {
 color = 6;
 glyphname = dcroat;
-lastChange = "2015-01-03 15:18:27 +0000";
+lastChange = "2015-01-05 03:26:34 +0000";
 layers = (
 {
 background = {
@@ -12727,13 +12727,13 @@ paths = (
 {
 closed = 1;
 nodes = (
-"815 1312 LINE SMOOTH",
-"770 1312 OFFCURVE",
-"749 1294 OFFCURVE",
-"740 1244 CURVE SMOOTH",
-"731 1194 OFFCURVE",
-"746 1176 OFFCURVE",
-"791 1176 CURVE SMOOTH",
+"855 1312 LINE SMOOTH",
+"810 1312 OFFCURVE",
+"789 1294 OFFCURVE",
+"780 1244 CURVE SMOOTH",
+"771 1194 OFFCURVE",
+"786 1176 OFFCURVE",
+"831 1176 CURVE SMOOTH",
 "993 1176 LINE",
 "906 686 LINE",
 "928 696 LINE",
