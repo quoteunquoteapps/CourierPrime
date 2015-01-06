@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Courier Prime</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/01/03 20:51:32</string>
+	<string>2015/01/05 23:15:30</string>
 	<key>openTypeNameDesigner</key>
 	<string>Alan Dague-Greene</string>
 	<key>openTypeNameDesignerURL</key>
@@ -173,7 +173,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>6</integer>
+	<integer>7</integer>
 	<key>xHeight</key>
 	<integer>924</integer>
 </dict>
