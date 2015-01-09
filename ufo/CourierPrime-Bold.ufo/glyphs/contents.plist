@@ -724,6 +724,8 @@
 	<string>six.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
+	<key>softhyphen</key>
+	<string>softhyphen.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>sterling</key>

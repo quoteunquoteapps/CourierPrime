@@ -31101,6 +31101,23 @@ width = 1228;
 unicode = 2011;
 },
 {
+glyphname = softhyphen;
+lastChange = "2015-01-09 14:52:24 +0000";
+layers = (
+{
+layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
+name = "Regular Italic";
+width = 0;
+},
+{
+layerId = UUID0;
+name = "Bold Italic";
+width = 0;
+}
+);
+unicode = 00AD;
+},
+{
 glyphname = guillemetleft;
 lastChange = "2015-01-03 15:18:27 +0000";
 layers = (
@@ -41141,6 +41158,7 @@ unicode = 0326;
 keepAlternatesTogether = 1;
 instances = (
 {
+active = 0;
 name = Light;
 weightClass = Light;
 },
@@ -41149,6 +41167,7 @@ interpolationWeight = 150;
 name = Regular;
 },
 {
+active = 0;
 interpolationWeight = 200;
 name = Medium;
 weightClass = Medium;

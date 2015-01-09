@@ -342,6 +342,7 @@
 		<string>endash</string>
 		<string>hyphen</string>
 		<string>nonbreakinghyphen</string>
+		<string>softhyphen</string>
 		<string>guillemetleft</string>
 		<string>guillemetright</string>
 		<string>guilsinglleft</string>

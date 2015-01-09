@@ -28187,6 +28187,23 @@ width = 1228;
 unicode = 2011;
 },
 {
+glyphname = softhyphen;
+lastChange = "2015-01-09 14:52:00 +0000";
+layers = (
+{
+layerId = UUID0;
+name = Regular;
+width = 0;
+},
+{
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+name = Bold;
+width = 0;
+}
+);
+unicode = 00AD;
+},
+{
 glyphname = guillemetleft;
 lastChange = "2014-11-23 14:20:38 +0000";
 layers = (
@@ -37578,6 +37595,7 @@ interpolationWeight = 150;
 name = Regular;
 },
 {
+active = 0;
 interpolationWeight = 200;
 name = Medium;
 weightClass = Medium;
