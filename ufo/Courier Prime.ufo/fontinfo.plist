@@ -12,8 +12,10 @@
 	<integer>-643</integer>
 	<key>familyName</key>
 	<string>Courier Prime</string>
+	<key>isFixedPitch</key>
+	<true/>
 	<key>openTypeHeadCreated</key>
-	<string>2015/01/09 06:23:38</string>
+	<string>2015/01/12 10:22:53</string>
 	<key>openTypeNameDesigner</key>
 	<string>Alan Dague-Greene</string>
 	<key>openTypeNameDesignerURL</key>
@@ -173,7 +175,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>8</integer>
+	<integer>9</integer>
 	<key>xHeight</key>
 	<integer>924</integer>
 </dict>

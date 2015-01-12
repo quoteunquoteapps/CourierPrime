@@ -19,9 +19,13 @@ value = "Copyright (c) 2015\012Quote-Unquote Apps (http://quoteunquoteapps.com)\
 {
 name = openTypeOS2VendorID;
 value = QUQA;
+},
+{
+name = isFixedPitch;
+value = 1;
 }
 );
-date = "2015-01-09 13:23:38 +0000";
+date = "2015-01-12 17:22:53 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Courier Prime";
@@ -37620,5 +37624,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 8;
+versionMinor = 9;
 }
