@@ -17,7 +17,7 @@
 	<key>italicAngle</key>
 	<real>-10</real>
 	<key>openTypeHeadCreated</key>
-	<string>2015/01/12 10:23:04</string>
+	<string>2015/01/14 13:06:56</string>
 	<key>openTypeNameDesigner</key>
 	<string>Alan Dague-Greene</string>
 	<key>openTypeNameDesignerURL</key>
@@ -167,7 +167,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>9</integer>
+	<integer>10</integer>
 	<key>xHeight</key>
 	<integer>924</integer>
 </dict>
