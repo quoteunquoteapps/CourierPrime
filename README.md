@@ -15,5 +15,5 @@ This repository is for ongoing development and expansion of Courier Prime. If yo
 
 ## Related repositories
 
-- [Highland Sans](https://github.com/quoteunquoteapps/HighlandSans)
-- [Highland Code](https://github.com/quoteunquoteapps/HighlandCode)
+- [Courier Prime Sans](https://github.com/quoteunquoteapps/Courier-Prime-Sans)
+- [Courier Prime Source](https://github.com/quoteunquoteapps/Courier-Prime-Source)
