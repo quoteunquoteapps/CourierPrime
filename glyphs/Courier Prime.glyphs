@@ -25,7 +25,7 @@ name = isFixedPitch;
 value = 1;
 }
 );
-date = "2015-01-14 20:06:49 +0000";
+date = "2015-03-02 02:38:09 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Courier Prime";
@@ -79,6 +79,40 @@ alignmentZones = (
 );
 ascender = 1421;
 capHeight = 1187;
+customParameters = (
+{
+name = typoAscender;
+value = 1421;
+},
+{
+name = hheaAscender;
+value = 1421;
+},
+{
+name = winAscent;
+value = 1797;
+},
+{
+name = typoDescender;
+value = "-643";
+},
+{
+name = hheaDescender;
+value = "-643";
+},
+{
+name = winDescent;
+value = "-839";
+},
+{
+name = underlineThickness;
+value = 130;
+},
+{
+name = underlinePosition;
+value = "-250";
+}
+);
 descender = "-643";
 guideLines = (
 {
@@ -110,6 +144,40 @@ alignmentZones = (
 );
 ascender = 1421;
 capHeight = 1187;
+customParameters = (
+{
+name = typoAscender;
+value = 1421;
+},
+{
+name = hheaAscender;
+value = 1421;
+},
+{
+name = winAscent;
+value = 1797;
+},
+{
+name = typoDescender;
+value = "-643";
+},
+{
+name = hheaDescender;
+value = "-643";
+},
+{
+name = winDescent;
+value = "-839";
+},
+{
+name = underlineThickness;
+value = 180;
+},
+{
+name = underlinePosition;
+value = "-220";
+}
+);
 descender = "-643";
 guideLines = (
 {
@@ -36932,5 +37000,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 10;
+versionMinor = 11;
 }

@@ -15,7 +15,7 @@
 	<key>isFixedPitch</key>
 	<true/>
 	<key>openTypeHeadCreated</key>
-	<string>2015/01/14 13:06:49</string>
+	<string>2015/03/01 19:38:09</string>
 	<key>openTypeNameDesigner</key>
 	<string>Alan Dague-Greene</string>
 	<key>openTypeNameDesignerURL</key>
@@ -175,7 +175,7 @@ OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN T
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>10</integer>
+	<integer>11</integer>
 	<key>xHeight</key>
 	<integer>924</integer>
 </dict>
