@@ -25,7 +25,7 @@ name = isFixedPitch;
 value = 1;
 }
 );
-date = "2015-03-16 15:25:54 +0000";
+date = "2015-03-16 19:40:26 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Courier Prime";
@@ -37000,5 +37000,5 @@ UUID0 = {
 };
 };
 versionMajor = 3;
-versionMinor = 12;
+versionMinor = 13;
 }

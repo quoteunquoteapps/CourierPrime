@@ -3,36 +3,7 @@
   <advance width="1228"/>
   <unicode hex="003B"/>
   <outline>
-    <contour>
-      <point x="472" y="354" type="line" smooth="yes"/>
-      <point x="444" y="354"/>
-      <point x="421" y="340"/>
-      <point x="413" y="314" type="curve" smooth="yes"/>
-      <point x="248" y="-228" type="line" smooth="yes"/>
-      <point x="235" y="-272"/>
-      <point x="266" y="-294"/>
-      <point x="322" y="-294" type="curve" smooth="yes"/>
-      <point x="368" y="-294"/>
-      <point x="401" y="-281"/>
-      <point x="420" y="-253" type="curve" smooth="yes"/>
-      <point x="788" y="291" type="line" smooth="yes"/>
-      <point x="811" y="326"/>
-      <point x="804" y="354"/>
-      <point x="771" y="354" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="580" y="946"/>
-      <point x="474" y="853"/>
-      <point x="474" y="728" type="curve" smooth="yes"/>
-      <point x="474" y="634"/>
-      <point x="546" y="556"/>
-      <point x="646" y="556" type="curve" smooth="yes"/>
-      <point x="762" y="556"/>
-      <point x="866" y="651"/>
-      <point x="866" y="776" type="curve" smooth="yes"/>
-      <point x="866" y="869"/>
-      <point x="795" y="946"/>
-      <point x="696" y="946" type="curve" smooth="yes"/>
-    </contour>
+    <component base="comma" xOffset="40"/>
+    <component base="period.squat" xOffset="106" yOffset="604"/>
   </outline>
 </glyph>
