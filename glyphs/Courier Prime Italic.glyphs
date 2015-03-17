@@ -25,7 +25,7 @@ name = isFixedPitch;
 value = 1;
 }
 );
-date = "2015-03-17 04:06:22 +0000";
+date = "2015-03-17 17:25:21 +0000";
 designer = "Alan Dague-Greene";
 designerURL = "http://basicrecipe.com";
 familyName = "Courier Prime";
@@ -12136,7 +12136,7 @@ unicode = 0109;
 },
 {
 glyphname = cdotaccent;
-lastChange = "2014-11-16 00:57:49 +0000";
+lastChange = "2015-03-17 17:20:36 +0000";
 layers = (
 {
 components = (
@@ -12146,7 +12146,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, -10, 20}";
+transform = "{1, 0, 0, 1, -20, 0}";
 }
 );
 layerId = UUID0;
@@ -13622,7 +13622,7 @@ unicode = 00EB;
 },
 {
 glyphname = edotaccent;
-lastChange = "2014-11-16 00:57:49 +0000";
+lastChange = "2015-03-17 17:20:23 +0000";
 layers = (
 {
 components = (
@@ -13632,7 +13632,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, -30, 20}";
+transform = "{1, 0, 0, 1, -35, 0}";
 }
 );
 layerId = UUID0;
@@ -14507,7 +14507,7 @@ unicode = 0123;
 },
 {
 glyphname = gdotaccent;
-lastChange = "2014-11-16 00:57:49 +0000";
+lastChange = "2015-03-17 17:20:17 +0000";
 layers = (
 {
 components = (
@@ -14517,7 +14517,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, -10, 20}";
+transform = "{1, 0, 0, 1, -15, 0}";
 }
 );
 layerId = UUID0;
@@ -23344,7 +23344,7 @@ unicode = 017E;
 },
 {
 glyphname = zdotaccent;
-lastChange = "2014-11-16 00:58:11 +0000";
+lastChange = "2015-03-17 17:20:21 +0000";
 layers = (
 {
 components = (
@@ -23354,7 +23354,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, -10, 20}";
+transform = "{1, 0, 0, 1, -15, 0}";
 }
 );
 layerId = UUID0;
@@ -40803,5 +40803,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 3;
-versionMinor = 15;
+versionMinor = 16;
 }
