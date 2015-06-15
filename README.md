@@ -16,4 +16,4 @@ This repository is for ongoing development and expansion of Courier Prime. If yo
 ## Related repositories
 
 - [Courier Prime Sans](https://github.com/quoteunquoteapps/CourierPrimeSans)
-- [Courier Prime Source](https://github.com/quoteunquoteapps/CourierPrimeSource)
+- [Courier Prime Code](https://github.com/quoteunquoteapps/CourierPrimeCode)
