@@ -13,7 +13,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2015 Quote-Unquote Apps.";
+copyright = "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).";
 customParameters = (
 {
 name = openTypeNameLicenseURL;
