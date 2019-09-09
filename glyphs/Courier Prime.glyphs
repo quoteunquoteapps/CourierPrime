@@ -30,6 +30,11 @@ value = QUQA;
 {
 name = isFixedPitch;
 value = 1;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2015-03-19 17:46:23 +0000";
