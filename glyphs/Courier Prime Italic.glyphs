@@ -10,7 +10,13 @@ DisplayStrings = (
 "µ",
 "/second/circumflex",
 "1/minute 2/second",
-"/second"
+"/second",
+"/bar.double",
+"/Dcroat E",
+"/summation",
+"/commaaccentcomb/commaaccentcomb.case",
+"/perthousand/lozenge @&¶§©®/trademark °/minute/second |¦/dagger/daggerdbl/bar.double/commaaccentcomb/commaaccentcomb.case",
+"130% 45/perthousand"
 );
 classes = (
 {
@@ -22,15 +28,15 @@ name = Uppercase;
 copyright = "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).";
 customParameters = (
 {
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
 name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
-name = openTypeNameLicense;
-value = "Copyright (c) 2015\012Quote-Unquote Apps (http://quoteunquoteapps.com)\012with Reserved Font Name Courier Prime.\012\012This Font Software is licensed under the SIL Open Font License\012Version 1.1. This license is copied below\012and is also available with a FAQ at: http://scripts.sil.org/OFL\012\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects\012to support the font creation efforts of academic and linguistic communities\012and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\012\012The OFL allows the licensed fonts to be used\012studied\012modified and redistributed freely as long as they are not sold by themselves. The fonts\012including any derivative works\012can be bundled\012embedded\012redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives\012however\012cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files\012build scripts and documentation.\012\012\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\012\012\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\012\012\"Modified Version\" refers to any derivative made by adding to\012deleting\012or substituting -- in part or in whole -- any of the components of the Original Version\012by changing formats or by porting the Font Software to a new environment.\012\012\"Author\" refers to any designer\012engineer\012programmer\012technical writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted\012free of charge\012to any person obtaining a copy of the Font Software\012to use\012study\012copy\012merge\012embed\012modify\012redistribute\012and sell modified and unmodified copies of the Font Software\012subject to the following conditions:\012\0121) Neither the Font Software nor any of its individual components\012in Original or Modified Versions\012may be sold by itself.\012\0122) Original or Modified Versions of the Font Software may be bundled\012redistributed and/or sold with any software\012provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files\012human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012\0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012\0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote\012endorse or advertise any Modified Version\012except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012\0125) The Font Software\012modified or unmodified\012in part or in whole\012must be distributed entirely under this license\012and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED \"AS IS\"\012WITHOUT WARRANTY OF ANY KIND\012EXPRESS OR IMPLIED\012INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY\012FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT\012PATENT\012TRADEMARK\012OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM\012DAMAGES OR OTHER LIABILITY\012INCLUDING ANY GENERAL\012SPECIAL\012INDIRECT\012INCIDENTAL\012OR CONSEQUENTIAL DAMAGES\012WHETHER IN AN ACTION OF CONTRACT\012TORT OR OTHERWISE\012ARISING FROM\012OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
-},
-{
-name = openTypeOS2VendorID;
+name = vendorID;
 value = QUQA;
 },
 {
@@ -54,7 +60,7 @@ familyName = "Courier Prime";
 featurePrefixes = (
 {
 automatic = 1;
-code = "languagesystem DFLT dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012";
+code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem cyrl dflt;\012languagesystem latn CAT;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn KAZ;\012languagesystem latn TRK;\012languagesystem latn CRT;\012languagesystem latn AZE;\012languagesystem cyrl TAT;\012";
 name = Languagesystems;
 }
 );
@@ -66,7 +72,12 @@ name = aalt;
 },
 {
 automatic = 1;
-code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
+code = "lookup ccmp_Other_1 {\012	@Markscomb = [commaaccentcomb acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ogonek ring tilde];\012	@MarkscombCase = [commaaccentcomb.case acute.case breve.case caron.case cedilla.case circumflex.case dieresis.case dotaccent.case grave.case hungarumlaut.case macron.case ogonek.case ring.case tilde.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_Other_1;\012\012lookup ccmp_Other_2 {\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_Other_2;\012";
+name = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language KAZ;\012sub i by idotaccent;\012language TRK;\012sub i by idotaccent;\012language CRT;\012sub i by idotaccent;\012language AZE;\012sub i by idotaccent;\012\012script cyrl;\012language TAT;\012sub i by idotaccent;\012";
 name = locl;
 },
 {
@@ -86,8 +97,13 @@ name = ordn;
 },
 {
 automatic = 1;
-code = "sub acute by acute.case;\012sub breve by breve.case;\012sub caron by caron.case;\012sub cedilla by cedilla.case;\012sub circumflex by circumflex.case;\012sub dieresis by dieresis.case;\012sub dotaccent by dotaccent.case;\012sub grave by grave.case;\012sub hungarumlaut by hungarumlaut.case;\012sub macron by macron.case;\012sub ogonek by ogonek.case;\012sub ring by ring.case;\012sub tilde by tilde.case;\012sub commaaccent by commaaccent.case;\012";
+code = "sub commaaccentcomb by commaaccentcomb.case;\012sub acute by acute.case;\012sub breve by breve.case;\012sub caron by caron.case;\012sub cedilla by cedilla.case;\012sub circumflex by circumflex.case;\012sub dieresis by dieresis.case;\012sub dotaccent by dotaccent.case;\012sub grave by grave.case;\012sub hungarumlaut by hungarumlaut.case;\012sub macron by macron.case;\012sub ogonek by ogonek.case;\012sub ring by ring.case;\012sub tilde by tilde.case;\012";
 name = case;
+},
+{
+automatic = 1;
+code = "sub f i by fi;\012sub f l by fl;\012";
+name = liga;
 }
 );
 fontMaster = (
@@ -1629,29 +1645,187 @@ unicode = 010E;
 },
 {
 glyphname = Dcroat;
-lastChange = "2014-11-22 20:00:17 +0000";
+lastChange = "2019-09-09 22:43:23 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"262 1187 LINE SMOOTH",
+"217 1187 OFFCURVE",
+"196 1169 OFFCURVE",
+"181 1084 CURVE SMOOTH",
+"166 999 OFFCURVE",
+"181 982 OFFCURVE",
+"226 982 CURVE SMOOTH",
+"323 982 LINE",
+"186 205 LINE",
+"89 205 LINE SMOOTH",
+"44 205 OFFCURVE",
+"22 187 OFFCURVE",
+"7 102 CURVE SMOOTH",
+"-8 17 OFFCURVE",
+"8 0 OFFCURVE",
+"53 0 CURVE SMOOTH",
+"985 0 LINE SMOOTH",
+"1031 0 OFFCURVE",
+"1053 19 OFFCURVE",
+"1061 65 CURVE SMOOTH",
+"1123 417 LINE SMOOTH",
+"1131 462 OFFCURVE",
+"1110 480 OFFCURVE",
+"1020 480 CURVE SMOOTH",
+"930 480 OFFCURVE",
+"891 462 OFFCURVE",
+"883 417 CURVE SMOOTH",
+"847 215 LINE",
+"437 215 LINE",
+"488 504 LINE",
+"732 504 LINE SMOOTH",
+"777 504 OFFCURVE",
+"799 526 OFFCURVE",
+"814 611 CURVE SMOOTH",
+"829 696 OFFCURVE",
+"815 719 OFFCURVE",
+"770 719 CURVE SMOOTH",
+"526 719 LINE",
+"571 972 LINE",
+"971 972 LINE",
+"944 820 LINE SMOOTH",
+"936 775 OFFCURVE",
+"956 757 OFFCURVE",
+"1041 757 CURVE SMOOTH",
+"1126 757 OFFCURVE",
+"1166 775 OFFCURVE",
+"1174 820 CURVE SMOOTH",
+"1227 1122 LINE SMOOTH",
+"1235 1168 OFFCURVE",
+"1220 1187 OFFCURVE",
+"1174 1187 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"639 716 OFFCURVE",
+"608 697 OFFCURVE",
+"600 651 CURVE SMOOTH",
+"586 573 LINE SMOOTH",
+"578 527 OFFCURVE",
+"603 508 OFFCURVE",
+"680 508 CURVE SMOOTH",
+"757 508 OFFCURVE",
+"788 527 OFFCURVE",
+"796 573 CURVE SMOOTH",
+"810 651 LINE SMOOTH",
+"818 697 OFFCURVE",
+"793 716 OFFCURVE",
+"716 716 CURVE SMOOTH"
+);
+}
+);
+};
 components = (
 {
 name = D;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, -10, 270}";
+transform = "{1, 0, 0, 1, -293, -557}";
 }
 );
 layerId = UUID0;
 width = 1228;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"282 1187 LINE SMOOTH",
+"237 1187 OFFCURVE",
+"216 1169 OFFCURVE",
+"207 1119 CURVE SMOOTH",
+"198 1069 OFFCURVE",
+"213 1051 OFFCURVE",
+"258 1051 CURVE SMOOTH",
+"360 1051 LINE",
+"198 136 LINE",
+"96 136 LINE SMOOTH",
+"51 136 OFFCURVE",
+"30 118 OFFCURVE",
+"21 68 CURVE SMOOTH",
+"13 18 OFFCURVE",
+"28 0 OFFCURVE",
+"73 0 CURVE SMOOTH",
+"967 0 LINE SMOOTH",
+"1012 0 OFFCURVE",
+"1033 18 OFFCURVE",
+"1041 68 CURVE SMOOTH",
+"1094 365 LINE SMOOTH",
+"1102 411 OFFCURVE",
+"1086 430 OFFCURVE",
+"1030 430 CURVE SMOOTH",
+"974 430 OFFCURVE",
+"952 411 OFFCURVE",
+"944 365 CURVE SMOOTH",
+"903 136 LINE",
+"348 136 LINE",
+"420 544 LINE",
+"722 544 LINE SMOOTH",
+"767 544 OFFCURVE",
+"788 562 OFFCURVE",
+"797 612 CURVE SMOOTH",
+"806 662 OFFCURVE",
+"791 680 OFFCURVE",
+"746 680 CURVE SMOOTH",
+"444 680 LINE",
+"510 1051 LINE",
+"1045 1051 LINE",
+"1012 865 LINE SMOOTH",
+"1004 819 OFFCURVE",
+"1020 800 OFFCURVE",
+"1076 800 CURVE SMOOTH",
+"1132 800 OFFCURVE",
+"1154 819 OFFCURVE",
+"1162 865 CURVE SMOOTH",
+"1207 1119 LINE SMOOTH",
+"1216 1169 OFFCURVE",
+"1201 1187 OFFCURVE",
+"1156 1187 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"741 836 OFFCURVE",
+"719 817 OFFCURVE",
+"710 771 CURVE SMOOTH",
+"654 453 LINE SMOOTH",
+"646 407 OFFCURVE",
+"662 388 OFFCURVE",
+"718 388 CURVE SMOOTH",
+"774 388 OFFCURVE",
+"796 407 OFFCURVE",
+"804 453 CURVE SMOOTH",
+"860 771 LINE SMOOTH",
+"869 817 OFFCURVE",
+"853 836 OFFCURVE",
+"797 836 CURVE SMOOTH"
+);
+}
+);
+};
 components = (
 {
 name = D;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 10, 270}";
+transform = "{1, 0, 0, 1, -312, -558}";
 }
 );
 layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
@@ -2507,7 +2681,7 @@ components = (
 name = G;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 50, 0}";
 }
 );
@@ -2520,7 +2694,7 @@ components = (
 name = G;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 20, 0}";
 }
 );
@@ -3896,7 +4070,7 @@ components = (
 name = K;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 70, 0}";
 }
 );
@@ -3909,7 +4083,7 @@ components = (
 name = K;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
 );
@@ -4098,7 +4272,7 @@ components = (
 name = L;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
 );
@@ -4111,7 +4285,7 @@ components = (
 name = L;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 20, 0}";
 }
 );
@@ -4753,7 +4927,7 @@ components = (
 name = N;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
 );
@@ -4766,7 +4940,7 @@ components = (
 name = N;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 10, 0}";
 }
 );
@@ -6527,7 +6701,7 @@ components = (
 name = R;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 80, 0}";
 }
 );
@@ -6540,7 +6714,7 @@ components = (
 name = R;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
 );
@@ -6862,7 +7036,7 @@ components = (
 name = S;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 60, 0}";
 }
 );
@@ -6875,7 +7049,7 @@ components = (
 name = S;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 20, 0}";
 }
 );
@@ -7225,7 +7399,7 @@ components = (
 name = T;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 10, 0}";
 }
 );
@@ -7238,7 +7412,7 @@ components = (
 name = T;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 }
 );
 layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
@@ -11529,7 +11703,7 @@ components = (
 name = g;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{-1, 0, 0, -1, 1247, 918}";
 }
 );
@@ -11542,7 +11716,7 @@ components = (
 name = g;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{-1, 0, 0, -1, 1229, 918}";
 }
 );
@@ -13163,7 +13337,7 @@ components = (
 name = k;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 60, 0}";
 }
 );
@@ -13176,7 +13350,7 @@ components = (
 name = k;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 30, 0}";
 }
 );
@@ -13370,7 +13544,7 @@ components = (
 name = l;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 120, 0}";
 }
 );
@@ -13383,7 +13557,7 @@ components = (
 name = l;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 100, 0}";
 }
 );
@@ -13983,7 +14157,7 @@ components = (
 name = n;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 70, 0}";
 }
 );
@@ -13996,7 +14170,7 @@ components = (
 name = n;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 20, 0}";
 }
 );
@@ -15649,7 +15823,7 @@ components = (
 name = r;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, -60, 0}";
 }
 );
@@ -15662,7 +15836,7 @@ components = (
 name = r;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, -90, 0}";
 }
 );
@@ -15984,7 +16158,7 @@ components = (
 name = s;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 40, 0}";
 }
 );
@@ -15997,7 +16171,7 @@ components = (
 name = s;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 30, 0}";
 }
 );
@@ -16345,7 +16519,7 @@ components = (
 name = t;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 590, 1546}";
 }
 );
@@ -16358,7 +16532,7 @@ components = (
 name = t;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 548, 1546}";
 }
 );
@@ -16413,7 +16587,7 @@ components = (
 name = t;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 80, 0}";
 }
 );
@@ -16423,7 +16597,7 @@ components = (
 name = t;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 80, 0}";
 }
 );
@@ -16437,7 +16611,7 @@ components = (
 name = t;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 90, 0}";
 }
 );
@@ -16447,7 +16621,7 @@ components = (
 name = t;
 },
 {
-name = commaaccent;
+name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 80, 0}";
 }
 );
@@ -29638,7 +29812,7 @@ unicode = 220F;
 {
 color = 9;
 glyphname = summation;
-lastChange = "2015-03-19 03:20:18 +0000";
+lastChange = "2019-09-09 22:43:56 +0000";
 layers = (
 {
 layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
@@ -29681,24 +29855,6 @@ nodes = (
 "1156 1167 OFFCURVE",
 "1141 1187 OFFCURVE",
 "1096 1187 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"395 -837 LINE",
-"395 -838 LINE",
-"396 -838 LINE",
-"396 -837 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"860 1797 LINE",
-"860 1796 LINE",
-"861 1796 LINE",
-"861 1797 LINE"
 );
 }
 );
@@ -29745,24 +29901,6 @@ nodes = (
 "1165 1164 OFFCURVE",
 "1151 1187 OFFCURVE",
 "1106 1187 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"385 -837 LINE",
-"385 -838 LINE",
-"386 -838 LINE",
-"386 -837 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"850 1797 LINE",
-"850 1796 LINE",
-"851 1796 LINE",
-"851 1797 LINE"
 );
 }
 );
@@ -32387,8 +32525,8 @@ width = 1228;
 );
 },
 {
-glyphname = commaaccent;
-lastChange = "2015-01-03 15:18:27 +0000";
+glyphname = commaaccentcomb;
+lastChange = "2019-09-10 01:06:42 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -32447,13 +32585,13 @@ unicode = 0326;
 },
 {
 color = 4;
-glyphname = commaaccent.case;
-lastChange = "2014-11-22 18:31:09 +0000";
+glyphname = commaaccentcomb.case;
+lastChange = "2019-09-10 01:06:49 +0000";
 layers = (
 {
 components = (
 {
-name = commaaccent;
+name = commaaccentcomb;
 }
 );
 layerId = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
@@ -32462,7 +32600,7 @@ width = 1228;
 {
 components = (
 {
-name = commaaccent;
+name = commaaccentcomb;
 }
 );
 layerId = UUID0;
@@ -34055,5 +34193,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 3;
-versionMinor = 17;
+versionMinor = 18;
 }
