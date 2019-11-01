@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="1228"/>
+  <unicode hex="0060"/>
+  <outline>
+    <component base="acute" xOffset="1228" xScale="-1"/>
+  </outline>
+</glyph>

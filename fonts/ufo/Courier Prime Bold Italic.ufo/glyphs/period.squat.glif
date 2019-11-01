@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period.squat" format="1">
+  <advance width="1228"/>
+  <outline>
+    <contour>
+      <point x="478" y="330"/>
+      <point x="434" y="312"/>
+      <point x="426" y="267" type="curve" smooth="yes"/>
+      <point x="388" y="53" type="line" smooth="yes"/>
+      <point x="380" y="8"/>
+      <point x="434" y="-10"/>
+      <point x="550" y="-10" type="curve" smooth="yes"/>
+      <point x="666" y="-10"/>
+      <point x="710" y="8"/>
+      <point x="718" y="53" type="curve" smooth="yes"/>
+      <point x="756" y="267" type="line" smooth="yes"/>
+      <point x="764" y="312"/>
+      <point x="710" y="330"/>
+      <point x="594" y="330" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>
