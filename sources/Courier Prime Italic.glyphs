@@ -1,5 +1,5 @@
 {
-.appVersion = "1230";
+.appVersion = "1271";
 DisplayStrings = (
 "/fraction///backslash/divisionslash |\012// /backslash  1/divisionslash 2\0121//2 1/backslash 2 1FOOD 1/divisionslash 2",
 "N/Nacute/Ncaron/Ncommaaccent/Eng ÑOÓ/Obreve ÔÖÒ/Ohungarumlaut/Omacron ØÕ/OE PÞQR/Racute/Rcaron/Rcommaaccent S/Sacute/Scaron/Scedilla/Scircumflex/Scommaaccent T/Tbar/Tcaron/Tcedilla/Tcommaaccent",
@@ -964,6 +964,10 @@ t_y,
 tcedilla,
 undercommaaccent
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2019-09-09 15:29:11 +0000";
@@ -1033,11 +1037,11 @@ capHeight = 1187;
 customParameters = (
 {
 name = typoAscender;
-value = 1421;
+value = 1600;
 },
 {
 name = typoDescender;
-value = -643;
+value = -700;
 },
 {
 name = typoLineGap;
@@ -1045,11 +1049,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1421;
+value = 1600;
 },
 {
 name = hheaDescender;
-value = -643;
+value = -700;
 },
 {
 name = hheaLineGap;
@@ -1061,7 +1065,7 @@ value = 1900;
 },
 {
 name = winDescent;
-value = -839;
+value = -800;
 },
 {
 name = underlineThickness;
@@ -1099,11 +1103,11 @@ capHeight = 1187;
 customParameters = (
 {
 name = typoAscender;
-value = 1421;
+value = 1600;
 },
 {
 name = typoDescender;
-value = -643;
+value = -700;
 },
 {
 name = typoLineGap;
@@ -1111,11 +1115,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1421;
+value = 1600;
 },
 {
 name = hheaDescender;
-value = -643;
+value = -700;
 },
 {
 name = hheaLineGap;
@@ -1127,7 +1131,7 @@ value = 1900;
 },
 {
 name = winDescent;
-value = -839;
+value = -800;
 },
 {
 name = underlineThickness;

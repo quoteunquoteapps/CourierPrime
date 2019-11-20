@@ -1,5 +1,5 @@
 {
-.appVersion = "1230";
+.appVersion = "1271";
 DisplayStrings = (
 "/Ebreve lephant",
 "/period.squat",
@@ -22,7 +22,8 @@ DisplayStrings = (
 "/fi/fl",
 "/commaaccentcomb/commaaccentcomb.case",
 "/NULL",
-"/.notdef []"
+"/.notdef []",
+"Ê"
 );
 classes = (
 {
@@ -964,6 +965,10 @@ t_y,
 tcedilla,
 undercommaaccent
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2019-09-09 22:34:09 +0000";
@@ -1023,11 +1028,11 @@ capHeight = 1187;
 customParameters = (
 {
 name = typoAscender;
-value = 1421;
+value = 1600;
 },
 {
 name = typoDescender;
-value = -643;
+value = -700;
 },
 {
 name = typoLineGap;
@@ -1035,11 +1040,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1421;
+value = 1600;
 },
 {
 name = hheaDescender;
-value = -643;
+value = -700;
 },
 {
 name = hheaLineGap;
@@ -1051,7 +1056,7 @@ value = 1900;
 },
 {
 name = winDescent;
-value = -839;
+value = -800;
 },
 {
 name = underlineThickness;
@@ -1096,11 +1101,11 @@ capHeight = 1187;
 customParameters = (
 {
 name = typoAscender;
-value = 1421;
+value = 1600;
 },
 {
 name = typoDescender;
-value = -643;
+value = -700;
 },
 {
 name = typoLineGap;
@@ -1108,11 +1113,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1421;
+value = 1600;
 },
 {
 name = hheaDescender;
-value = -643;
+value = -700;
 },
 {
 name = hheaLineGap;
@@ -1124,7 +1129,7 @@ value = 1900;
 },
 {
 name = winDescent;
-value = -839;
+value = -800;
 },
 {
 name = underlineThickness;
