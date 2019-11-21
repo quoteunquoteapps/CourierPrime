@@ -23,7 +23,8 @@ DisplayStrings = (
 "/commaaccentcomb/commaaccentcomb.case",
 "/NULL",
 "/.notdef []",
-"Ê"
+"Ê",
+noHoeA
 );
 classes = (
 {
@@ -6138,7 +6139,7 @@ unicode = 0047;
 },
 {
 glyphname = H;
-lastChange = "2015-01-03 15:06:09 +0000";
+lastChange = "2019-11-21 04:31:46 +0000";
 layers = (
 {
 layerId = UUID0;

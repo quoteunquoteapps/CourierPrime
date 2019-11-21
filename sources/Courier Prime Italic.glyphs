@@ -22,7 +22,8 @@ DisplayStrings = (
 "12/divisionslash 24",
 "\015",
 "]_[",
-"/.notdef []///backslash"
+"/.notdef []///backslash",
+noHoeA
 );
 classes = (
 {
@@ -1085,8 +1086,16 @@ position = "{-250, -388}";
 position = "{49, 1312}";
 }
 );
+horizontalStems = (
+136,
+148
+);
 id = "38D47A70-C265-4203-8B70-C23C50FC2DCC";
 italicAngle = 10;
+verticalStems = (
+150,
+158
+);
 weightValue = 150;
 xHeight = 924;
 },
@@ -1151,8 +1160,17 @@ position = "{49, 1312}";
 position = "{-209, -388}";
 }
 );
+horizontalStems = (
+215,
+227,
+205
+);
 id = UUID0;
 italicAngle = 10;
+verticalStems = (
+250,
+267
+);
 weight = Bold;
 weightValue = 250;
 xHeight = 924;
