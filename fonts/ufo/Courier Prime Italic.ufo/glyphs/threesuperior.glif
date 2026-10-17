@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="threesuperior" format="1">
+<glyph name="threesuperior" format="2">
   <advance width="1228"/>
   <unicode hex="00B3"/>
   <outline>
     <contour>
+      <point x="764" y="1334" type="curve" smooth="yes"/>
       <point x="676" y="1334"/>
       <point x="572" y="1312"/>
       <point x="485" y="1265" type="curve" smooth="yes"/>
@@ -64,7 +65,6 @@
       <point x="1026" y="1121" type="curve" smooth="yes"/>
       <point x="1026" y="1251"/>
       <point x="931" y="1334"/>
-      <point x="764" y="1334" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

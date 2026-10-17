@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="two" format="1">
+<glyph name="two" format="2">
   <advance width="1228"/>
   <unicode hex="0032"/>
   <outline>
     <contour>
+      <point x="580" y="1209" type="curve" smooth="yes"/>
       <point x="457" y="1209"/>
       <point x="342" y="1166"/>
       <point x="247" y="1097" type="curve" smooth="yes"/>
@@ -53,7 +54,6 @@
       <point x="967" y="859" type="curve" smooth="yes"/>
       <point x="967" y="1080"/>
       <point x="813" y="1209"/>
-      <point x="580" y="1209" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

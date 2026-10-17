@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ampersand" format="1">
+<glyph name="ampersand" format="2">
   <advance width="1228"/>
   <unicode hex="0026"/>
   <outline>
     <contour>
+      <point x="583" y="1209" type="curve" smooth="yes"/>
       <point x="345" y="1209"/>
       <point x="202" y="1064"/>
       <point x="202" y="866" type="curve" smooth="yes"/>
@@ -72,7 +73,6 @@
       <point x="912" y="1113" type="curve" smooth="yes"/>
       <point x="794" y="1178"/>
       <point x="685" y="1209"/>
-      <point x="583" y="1209" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="617" y="266" type="line"/>

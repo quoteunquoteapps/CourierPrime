@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dollar" format="1">
+<glyph name="dollar" format="2">
   <advance width="1228"/>
   <unicode hex="0024"/>
   <outline>
     <contour>
+      <point x="608" y="1312" type="curve" smooth="yes"/>
       <point x="559" y="1312"/>
       <point x="538" y="1293"/>
       <point x="538" y="1247" type="curve" smooth="yes"/>
@@ -79,9 +80,9 @@
       <point x="678" y="1247" type="line" smooth="yes"/>
       <point x="678" y="1293"/>
       <point x="657" y="1312"/>
-      <point x="608" y="1312" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="678" y="534" type="line"/>
       <point x="727" y="528"/>
       <point x="771" y="521"/>
       <point x="807" y="509" type="curve" smooth="yes"/>
@@ -91,7 +92,6 @@
       <point x="892" y="331"/>
       <point x="820" y="270"/>
       <point x="678" y="263" type="curve"/>
-      <point x="678" y="534" type="line"/>
     </contour>
     <contour>
       <point x="538" y="702" type="line"/>

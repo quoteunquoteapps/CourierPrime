@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresistonos" format="2">
+  <advance width="1228"/>
+  <unicode hex="03B0"/>
+  <outline>
+    <component base="upsilontonos"/>
+    <contour>
+      <point x="933" y="1363" type="curve" smooth="yes"/>
+      <point x="857" y="1363"/>
+      <point x="838" y="1344"/>
+      <point x="838" y="1298" type="curve" smooth="yes"/>
+      <point x="838" y="1168" type="line" smooth="yes"/>
+      <point x="838" y="1122"/>
+      <point x="857" y="1103"/>
+      <point x="933" y="1103" type="curve" smooth="yes"/>
+      <point x="1009" y="1103"/>
+      <point x="1028" y="1122"/>
+      <point x="1028" y="1168" type="curve" smooth="yes"/>
+      <point x="1028" y="1298" type="line" smooth="yes"/>
+      <point x="1028" y="1344"/>
+      <point x="1009" y="1363"/>
+    </contour>
+    <contour>
+      <point x="333" y="1363" type="curve" smooth="yes"/>
+      <point x="257" y="1363"/>
+      <point x="238" y="1344"/>
+      <point x="238" y="1298" type="curve" smooth="yes"/>
+      <point x="238" y="1168" type="line" smooth="yes"/>
+      <point x="238" y="1122"/>
+      <point x="257" y="1103"/>
+      <point x="333" y="1103" type="curve" smooth="yes"/>
+      <point x="409" y="1103"/>
+      <point x="428" y="1122"/>
+      <point x="428" y="1168" type="curve" smooth="yes"/>
+      <point x="428" y="1298" type="line" smooth="yes"/>
+      <point x="428" y="1344"/>
+      <point x="409" y="1363"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>upsilondieresis+acute</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>96ae99a6cbdecda0c2136659cf99346f9c10bbe54e2a3a6e03419d9e5d9c5664060f2dc42ad405002a422f91761224ec31158891954e18954df34ec3a409967a</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -21 134</string>
+          <string>hstem 788 136</string>
+          <string>hstem 1103 260</string>
+          <string>hstem 1518 -20</string>
+          <string>vstem 227 139</string>
+          <string>vstem 238 190</string>
+          <string>vstem 838 190</string>
+          <string>vstem 862 138</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

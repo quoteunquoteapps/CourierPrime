@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="notequal" format="1">
+<glyph name="notequal" format="2">
   <advance width="1228"/>
   <unicode hex="2260"/>
   <outline>
+    <component base="equal"/>
     <contour>
+      <point x="899" y="1081" type="curve" smooth="yes"/>
       <point x="856" y="1106"/>
       <point x="831" y="1100"/>
       <point x="808" y="1061" type="curve" smooth="yes"/>
@@ -25,8 +27,6 @@
       <point x="924" y="991" type="line" smooth="yes"/>
       <point x="948" y="1031"/>
       <point x="941" y="1057"/>
-      <point x="899" y="1081" type="curve" smooth="yes"/>
     </contour>
-    <component base="equal"/>
   </outline>
 </glyph>

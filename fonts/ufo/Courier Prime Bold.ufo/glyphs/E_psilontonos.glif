@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilontonos" format="2">
+  <advance width="1228"/>
+  <unicode hex="0388"/>
+  <outline>
+    <component base="Epsilon" xOffset="123"/>
+    <component base="tonos" xScale="0.939539" xyScale="0.342441" yxScale="-0.342441" yScale="0.939539" xOffset="-213" yOffset="-484"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Epsilon+~acute.case</string>
+  </dict>
+  </lib>
+</glyph>

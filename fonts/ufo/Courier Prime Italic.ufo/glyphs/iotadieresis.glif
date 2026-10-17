@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresis" format="2">
+  <advance width="1228"/>
+  <unicode hex="03CA"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dieresis" xOffset="-39"/>
+  </outline>
+  <guideline angle="90" x="614" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>iota+dieresis</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Oslash" format="1">
+<glyph name="Oslash" format="2">
   <advance width="1228"/>
   <unicode hex="00D8"/>
   <outline>
     <contour>
+      <point x="1204" y="1232" type="curve" smooth="yes"/>
       <point x="1169" y="1260"/>
       <point x="1132" y="1257"/>
       <point x="1099" y="1219" type="curve" smooth="yes"/>
@@ -43,9 +44,9 @@
       <point x="1214" y="1139" type="line" smooth="yes"/>
       <point x="1247" y="1177"/>
       <point x="1239" y="1204"/>
-      <point x="1204" y="1232" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="998" y="891" type="line"/>
       <point x="1018" y="843"/>
       <point x="1028" y="786"/>
       <point x="1028" y="722" type="curve" smooth="yes"/>
@@ -58,9 +59,9 @@
       <point x="492" y="126"/>
       <point x="430" y="146"/>
       <point x="382" y="183" type="curve"/>
-      <point x="998" y="891" type="line"/>
     </contour>
     <contour>
+      <point x="731" y="1061" type="curve" smooth="yes"/>
       <point x="804" y="1061"/>
       <point x="865" y="1041"/>
       <point x="913" y="1005" type="curve"/>
@@ -73,15 +74,12 @@
       <point x="396" y="878" type="curve" smooth="yes"/>
       <point x="473" y="986"/>
       <point x="586" y="1061"/>
-      <point x="731" y="1061" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
   </lib>
 </glyph>

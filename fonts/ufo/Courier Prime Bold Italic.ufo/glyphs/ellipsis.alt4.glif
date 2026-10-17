@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ellipsis.alt4" format="1">
+<glyph name="ellipsis.alt4" format="2">
   <advance width="1228"/>
   <outline>
     <contour>
+      <point x="991" y="316" type="curve" smooth="yes"/>
       <point x="891" y="316"/>
       <point x="799" y="235"/>
       <point x="799" y="127" type="curve" smooth="yes"/>
@@ -14,9 +15,9 @@
       <point x="1139" y="168" type="curve" smooth="yes"/>
       <point x="1139" y="249"/>
       <point x="1077" y="316"/>
-      <point x="991" y="316" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="-369" y="316" type="curve" smooth="yes"/>
       <point x="-469" y="316"/>
       <point x="-561" y="235"/>
       <point x="-561" y="127" type="curve" smooth="yes"/>
@@ -28,9 +29,9 @@
       <point x="-221" y="168" type="curve" smooth="yes"/>
       <point x="-221" y="249"/>
       <point x="-283" y="316"/>
-      <point x="-369" y="316" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="311" y="316" type="curve" smooth="yes"/>
       <point x="211" y="316"/>
       <point x="119" y="235"/>
       <point x="119" y="127" type="curve" smooth="yes"/>
@@ -42,7 +43,12 @@
       <point x="459" y="168" type="curve" smooth="yes"/>
       <point x="459" y="249"/>
       <point x="397" y="316"/>
-      <point x="311" y="316" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.99,1,1</string>
+  </dict>
+  </lib>
 </glyph>

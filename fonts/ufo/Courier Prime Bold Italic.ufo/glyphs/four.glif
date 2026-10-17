@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="four" format="1">
+<glyph name="four" format="2">
   <advance width="1228"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
+      <point x="901" y="1209" type="curve" smooth="yes"/>
       <point x="831" y="1209"/>
       <point x="783" y="1191"/>
       <point x="742" y="1150" type="curve" smooth="yes"/>
@@ -43,7 +44,6 @@
       <point x="990" y="1119" type="line" smooth="yes"/>
       <point x="999" y="1173"/>
       <point x="983" y="1209"/>
-      <point x="901" y="1209" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="653" y="575" type="line"/>

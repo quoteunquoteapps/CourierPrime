@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="parenright" format="1">
+<glyph name="parenright" format="2">
   <advance width="1228"/>
   <unicode hex="0029"/>
   <outline>
     <contour>
+      <point x="457" y="1375" type="curve" smooth="yes"/>
       <point x="428" y="1392"/>
       <point x="398" y="1371"/>
       <point x="380" y="1341" type="curve" smooth="yes"/>
@@ -27,7 +28,6 @@
       <point x="931" y="517" type="curve" smooth="yes"/>
       <point x="931" y="940"/>
       <point x="681" y="1241"/>
-      <point x="457" y="1375" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

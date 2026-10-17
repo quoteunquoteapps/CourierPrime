@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ampersand" format="1">
+<glyph name="ampersand" format="2">
   <advance width="1228"/>
   <unicode hex="0026"/>
   <outline>
     <contour>
+      <point x="716" y="1209" type="curve" smooth="yes"/>
       <point x="420" y="1209"/>
       <point x="281" y="1001"/>
       <point x="281" y="819" type="curve" smooth="yes"/>
@@ -45,7 +46,7 @@
       <point x="887" y="645" type="line" smooth="yes"/>
       <point x="857" y="645"/>
       <point x="840" y="628"/>
-      <point x="828" y="603" type="curve" smooth="yes"/>
+      <point x="828" y="603" type="curve"/>
       <point x="803" y="555"/>
       <point x="779" y="511"/>
       <point x="755" y="470" type="curve"/>
@@ -72,7 +73,6 @@
       <point x="1035" y="1109" type="curve" smooth="yes"/>
       <point x="932" y="1177"/>
       <point x="818" y="1209"/>
-      <point x="716" y="1209" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="600" y="271" type="line"/>
@@ -87,4 +87,10 @@
       <point x="441" y="474" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.99,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ellipsis.alt1" format="1">
+<glyph name="ellipsis.alt1" format="2">
   <advance width="1228"/>
   <outline>
     <contour>
+      <point x="1514" y="316" type="curve" smooth="yes"/>
       <point x="1421" y="316"/>
       <point x="1345" y="240"/>
       <point x="1345" y="147" type="curve" smooth="yes"/>
@@ -14,9 +15,9 @@
       <point x="1683" y="147" type="curve" smooth="yes"/>
       <point x="1683" y="240"/>
       <point x="1607" y="316"/>
-      <point x="1514" y="316" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="-286" y="316" type="curve" smooth="yes"/>
       <point x="-379" y="316"/>
       <point x="-455" y="240"/>
       <point x="-455" y="147" type="curve" smooth="yes"/>
@@ -28,9 +29,9 @@
       <point x="-117" y="147" type="curve" smooth="yes"/>
       <point x="-117" y="240"/>
       <point x="-193" y="316"/>
-      <point x="-286" y="316" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="614" y="316" type="curve" smooth="yes"/>
       <point x="521" y="316"/>
       <point x="445" y="240"/>
       <point x="445" y="147" type="curve" smooth="yes"/>
@@ -42,7 +43,6 @@
       <point x="783" y="147" type="curve" smooth="yes"/>
       <point x="783" y="240"/>
       <point x="707" y="316"/>
-      <point x="614" y="316" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

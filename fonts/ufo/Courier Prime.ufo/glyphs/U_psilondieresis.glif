@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilondieresis" format="2">
+  <advance width="1228"/>
+  <unicode hex="03AB"/>
+  <outline>
+    <component base="Upsilon"/>
+    <component base="dieresis.case"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Upsilon+~dieresis.case</string>
+  </dict>
+  </lib>
+</glyph>

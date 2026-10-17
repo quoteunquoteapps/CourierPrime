@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="asterisk" format="1">
+<glyph name="asterisk" format="2">
   <advance width="1228"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
+      <point x="614" y="1209" type="curve" smooth="yes"/>
       <point x="522" y="1209"/>
       <point x="481" y="1143"/>
       <point x="498" y="1069" type="curve" smooth="yes"/>
@@ -43,7 +44,6 @@
       <point x="730" y="1069" type="line" smooth="yes"/>
       <point x="747" y="1143"/>
       <point x="706" y="1209"/>
-      <point x="614" y="1209" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

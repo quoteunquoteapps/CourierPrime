@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sterling" format="1">
+<glyph name="sterling" format="2">
   <advance width="1228"/>
   <unicode hex="00A3"/>
   <outline>
     <contour>
+      <point x="751" y="1209" type="curve" smooth="yes"/>
       <point x="498" y="1209"/>
       <point x="360" y="1011"/>
       <point x="360" y="839" type="curve" smooth="yes"/>
@@ -84,7 +85,12 @@
       <point x="1065" y="1105" type="curve" smooth="yes"/>
       <point x="989" y="1168"/>
       <point x="875" y="1209"/>
-      <point x="751" y="1209" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.99,1,1</string>
+  </dict>
+  </lib>
 </glyph>

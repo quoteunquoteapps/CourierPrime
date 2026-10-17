@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tbar" format="1">
+<glyph name="tbar" format="2">
   <advance width="1228"/>
   <unicode hex="0167"/>
   <outline>
+    <component base="t"/>
     <contour>
       <point x="243" y="545" type="line" smooth="yes"/>
       <point x="198" y="545"/>
@@ -19,14 +20,11 @@
       <point x="850" y="545"/>
       <point x="805" y="545" type="curve" smooth="yes"/>
     </contour>
-    <component base="t"/>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.89,1,1</string>
+  </dict>
   </lib>
 </glyph>

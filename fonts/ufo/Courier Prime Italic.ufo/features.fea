@@ -1,27 +1,45 @@
-# Prefix: Languagesystems
-# automatic
+#> classes
+#/> otclasses
+@Uppercase = [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Agrave Aacute Acircumflex Atilde Adieresis Aring AE Ccedilla Egrave Eacute Ecircumflex Edieresis Igrave Iacute Icircumflex Idieresis Eth Ntilde Ograve Oacute Ocircumflex Otilde Odieresis Oslash Ugrave Uacute Ucircumflex Udieresis Yacute Thorn Amacron Abreve Aogonek Cacute Ccircumflex Cdotaccent Ccaron Dcaron Dcroat Emacron Edotaccent Eogonek Ecaron Gcircumflex Gbreve Gdotaccent Gcommaaccent Hcircumflex Hbar Imacron Iogonek Idotaccent IJ Jcircumflex Kcommaaccent Lacute Lcommaaccent Lcaron Lslash Nacute Ncommaaccent Ncaron Omacron Ohungarumlaut OE Racute Rcommaaccent Rcaron Sacute Scircumflex Scedilla Scaron Tcommaaccent Tcaron Umacron Ubreve Uring Uhungarumlaut Uogonek Ydieresis Zacute Zdotaccent Zcaron Scommaaccent Omega Delta Tcedilla Ebreve Ibreve Itilde Ldot Eng Obreve Tbar Utilde Wacute Wcircumflex Wdieresis Wgrave Ycircumflex Ygrave];
+#/< otclasses
+#< classes
+
 languagesystem DFLT dflt;
-languagesystem grek dflt;
 languagesystem latn dflt;
+languagesystem cyrl dflt;
+languagesystem latn CAT;
 languagesystem latn ROM;
 languagesystem latn MOL;
-languagesystem latn CAT;
-
-# automatic
-@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Delta Omega ];
-
+languagesystem latn KAZ;
+languagesystem latn TRK;
+languagesystem latn CRT;
+languagesystem latn AZE;
+languagesystem cyrl TAT;
 feature aalt {
-# automatic
 feature locl;
 feature sups;
 feature frac;
 feature ordn;
 feature case;
 } aalt;
+feature ccmp {
+lookup ccmp_Other_1 {
+	@Markscomb = [commaaccentcomb acute breve caron cedilla circumflex dieresis dotaccent grave hungarumlaut macron ogonek ring tilde];
+	@MarkscombCase = [commaaccentcomb.case acute.case breve.case caron.case cedilla.case circumflex.case dieresis.case dotaccent.case grave.case hungarumlaut.case macron.case ogonek.case ring.case tilde.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_Other_1;
 
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+} ccmp;
 feature locl {
-# automatic
 script latn;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
 language ROM;
 sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
@@ -32,34 +50,36 @@ sub Scedilla by Scommaaccent;
 sub scedilla by scommaaccent;
 sub Tcedilla by Tcommaaccent;
 sub tcedilla by tcommaaccent;
-language CAT;
-sub  l' periodcentered' l by ldot;
-sub  L' periodcentered' L by Ldot;
-} locl;
+language KAZ;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+language CRT;
+sub i by idotaccent;
+language AZE;
+sub i by idotaccent;
 
+script cyrl;
+language TAT;
+sub i by idotaccent;
+} locl;
 feature sups {
-# automatic
-sub one by onesuperior;
 sub two by twosuperior;
 sub three by threesuperior;
+sub one by onesuperior;
 sub four by foursuperior;
 } sups;
-
 feature frac {
-# automatic
 sub one slash four by onequarter;
 sub one slash two by onehalf;
 sub three slash four by threequarters;
 } frac;
-
 feature ordn {
-# automatic
 sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 } ordn;
-
 feature case {
-# automatic
+sub commaaccentcomb by commaaccentcomb.case;
 sub acute by acute.case;
 sub breve by breve.case;
 sub caron by caron.case;
@@ -73,6 +93,8 @@ sub macron by macron.case;
 sub ogonek by ogonek.case;
 sub ring by ring.case;
 sub tilde by tilde.case;
-sub commaaccent by commaaccent.case;
 } case;
-
+feature liga {
+sub f i by fi;
+sub f l by fl;
+} liga;

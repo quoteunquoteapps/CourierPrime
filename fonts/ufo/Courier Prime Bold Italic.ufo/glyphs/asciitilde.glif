@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="asciitilde" format="1">
+<glyph name="asciitilde" format="2">
   <advance width="1228"/>
   <unicode hex="007E"/>
   <outline>
     <contour>
+      <point x="462" y="765" type="curve" smooth="yes"/>
       <point x="339" y="765"/>
       <point x="250" y="703"/>
       <point x="174" y="590" type="curve" smooth="yes"/>
@@ -33,7 +34,6 @@
       <point x="838" y="639" type="curve" smooth="yes"/>
       <point x="722" y="639"/>
       <point x="613" y="765"/>
-      <point x="462" y="765" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

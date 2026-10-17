@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="germandbls" format="1">
+<glyph name="germandbls" format="2">
   <advance width="1228"/>
   <unicode hex="00DF"/>
   <outline>
     <contour>
+      <point x="753" y="1317" type="curve" smooth="yes"/>
       <point x="520" y="1317"/>
       <point x="369" y="1162"/>
       <point x="331" y="943" type="curve" smooth="yes"/>
@@ -54,7 +55,6 @@
       <point x="1089" y="1029" type="curve" smooth="yes"/>
       <point x="1089" y="1192"/>
       <point x="975" y="1317"/>
-      <point x="753" y="1317" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lozenge" format="1">
+<glyph name="lozenge" format="2">
   <advance width="1228"/>
   <unicode hex="25CA"/>
   <outline>
     <contour>
+      <point x="614" y="1209" type="curve" smooth="yes"/>
       <point x="557" y="1209"/>
       <point x="533" y="1188"/>
       <point x="508" y="1144" type="curve" smooth="yes"/>
@@ -25,7 +26,6 @@
       <point x="720" y="1144" type="line" smooth="yes"/>
       <point x="695" y="1188"/>
       <point x="671" y="1209"/>
-      <point x="614" y="1209" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="860" y="593" type="line"/>

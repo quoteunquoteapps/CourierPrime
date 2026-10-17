@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sterling" format="1">
+<glyph name="sterling" format="2">
   <advance width="1228"/>
   <unicode hex="00A3"/>
   <outline>
     <contour>
+      <point x="620" y="1209" type="curve" smooth="yes"/>
       <point x="378" y="1209"/>
       <point x="241" y="1061"/>
       <point x="241" y="867" type="curve" smooth="yes"/>
@@ -84,7 +85,6 @@
       <point x="955" y="1120" type="curve" smooth="yes"/>
       <point x="840" y="1179"/>
       <point x="727" y="1209"/>
-      <point x="620" y="1209" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

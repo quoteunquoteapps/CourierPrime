@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="caron.case" format="1">
+<glyph name="caron.case" format="2">
   <advance width="1228"/>
+  <anchor x="741" y="1187" name="_top"/>
   <outline>
     <component base="caron" xOffset="40" yOffset="270"/>
-    <contour>
-      <point x="741" y="1187" type="move" name="_top"/>
-    </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>4</integer>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
   </lib>
 </glyph>

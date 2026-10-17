@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tonos" format="2">
+  <advance width="1228"/>
+  <unicode hex="0384"/>
+  <outline>
+    <component base="acute" xScale="0.965926" xyScale="0.258819" yxScale="-0.258819" yScale="0.965926" xOffset="287" yOffset="-115"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>acute%</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

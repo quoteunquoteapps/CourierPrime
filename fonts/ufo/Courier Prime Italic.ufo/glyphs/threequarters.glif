@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="threequarters" format="1">
+<glyph name="threequarters" format="2">
   <advance width="1228"/>
   <unicode hex="00BE"/>
   <outline>
     <contour>
+      <point x="426" y="1394" type="curve" smooth="yes"/>
       <point x="352" y="1394"/>
       <point x="266" y="1375"/>
       <point x="193" y="1336" type="curve" smooth="yes"/>
       <point x="181" y="1329"/>
       <point x="172" y="1317"/>
-      <point x="170" y="1301" type="curve" smooth="yes"/>
+      <point x="170" y="1301" type="curve"/>
       <point x="153" y="1209" type="line" smooth="yes"/>
       <point x="148" y="1182"/>
       <point x="160" y="1167"/>
@@ -46,10 +47,10 @@
       <point x="135" y="821" type="curve" smooth="yes"/>
       <point x="111" y="832"/>
       <point x="94" y="821"/>
-      <point x="76" y="789" type="curve" smooth="yes"/>
+      <point x="76" y="789" type="curve"/>
       <point x="59" y="756"/>
       <point x="63" y="736"/>
-      <point x="81" y="725" type="curve" smooth="yes"/>
+      <point x="81" y="725" type="curve"/>
       <point x="145" y="689"/>
       <point x="227" y="669"/>
       <point x="312" y="669" type="curve" smooth="yes"/>
@@ -64,13 +65,13 @@
       <point x="645" y="1216" type="curve" smooth="yes"/>
       <point x="645" y="1324"/>
       <point x="565" y="1394"/>
-      <point x="426" y="1394" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="1066" y="495" type="curve" smooth="yes"/>
       <point x="1036" y="495"/>
       <point x="1016" y="482"/>
       <point x="992" y="459" type="curve" smooth="yes"/>
-      <point x="609" y="81" type="line" smooth="yes"/>
+      <point x="609" y="81" type="line"/>
       <point x="596" y="67"/>
       <point x="585" y="56"/>
       <point x="585" y="18" type="curve" smooth="yes"/>
@@ -97,7 +98,6 @@
       <point x="1132" y="449" type="line" smooth="yes"/>
       <point x="1137" y="476"/>
       <point x="1103" y="495"/>
-      <point x="1066" y="495" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="953" y="76" type="line"/>

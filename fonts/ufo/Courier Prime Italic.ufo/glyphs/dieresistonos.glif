@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="2">
+  <advance width="1228"/>
+  <unicode hex="0385"/>
+  <outline>
+    <component base="dotaccent" xOffset="-370"/>
+    <component base="tonos" xOffset="13"/>
+    <component base="dotaccent" xOffset="401"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>dotaccent+tonos+dotaccent%</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

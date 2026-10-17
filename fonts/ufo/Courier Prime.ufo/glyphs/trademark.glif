@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="trademark" format="1">
+<glyph name="trademark" format="2">
   <advance width="1228"/>
   <unicode hex="2122"/>
   <outline>
     <contour>
+      <point x="1172" y="1322" type="curve" smooth="yes"/>
       <point x="1140" y="1322"/>
       <point x="1119" y="1315"/>
       <point x="1110" y="1296" type="curve" smooth="yes"/>
@@ -41,7 +42,6 @@
       <point x="1241" y="1257" type="line" smooth="yes"/>
       <point x="1238" y="1303"/>
       <point x="1218" y="1322"/>
-      <point x="1172" y="1322" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="123" y="1312" type="line" smooth="yes"/>

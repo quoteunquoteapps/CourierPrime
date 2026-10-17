@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Etatonos" format="2">
+  <advance width="1228"/>
+  <unicode hex="0389"/>
+  <outline>
+    <component base="Eta" xOffset="73"/>
+    <component base="acute.case" xScale="0.813041" xyScale="0.582206" yxScale="-0.582206" yScale="0.813041" xOffset="200" yOffset="-745"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Eta+~acute.case</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

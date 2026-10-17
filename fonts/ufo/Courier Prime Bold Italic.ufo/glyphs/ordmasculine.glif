@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ordmasculine" format="1">
+<glyph name="ordmasculine" format="2">
   <advance width="1228"/>
   <unicode hex="00BA"/>
   <outline>
     <contour>
+      <point x="745" y="1209" type="curve" smooth="yes"/>
       <point x="445" y="1209"/>
       <point x="308" y="982"/>
       <point x="308" y="780" type="curve" smooth="yes"/>
@@ -15,9 +16,9 @@
       <point x="1075" y="894" type="curve" smooth="yes"/>
       <point x="1075" y="1078"/>
       <point x="951" y="1209"/>
-      <point x="745" y="1209" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="726" y="1035" type="curve" smooth="yes"/>
       <point x="816" y="1035"/>
       <point x="869" y="976"/>
       <point x="869" y="883" type="curve" smooth="yes"/>
@@ -29,7 +30,6 @@
       <point x="513" y="790" type="curve" smooth="yes"/>
       <point x="513" y="915"/>
       <point x="592" y="1035"/>
-      <point x="726" y="1035" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

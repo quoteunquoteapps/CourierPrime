@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cent" format="1">
+<glyph name="cent" format="2">
   <advance width="1228"/>
   <unicode hex="00A2"/>
   <outline>
     <contour>
+      <point x="779" y="1312" type="curve" smooth="yes"/>
       <point x="704" y="1312"/>
       <point x="683" y="1294"/>
       <point x="675" y="1249" type="curve" smooth="yes"/>
@@ -58,7 +59,6 @@
       <point x="861" y="1249" type="line" smooth="yes"/>
       <point x="869" y="1294"/>
       <point x="854" y="1312"/>
-      <point x="779" y="1312" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="519" y="368" type="line"/>
@@ -70,4 +70,10 @@
       <point x="602" y="837" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.99,1,1</string>
+  </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eogonek" format="1">
+<glyph name="eogonek" format="2">
   <advance width="1228"/>
   <unicode hex="0119"/>
   <outline>
     <contour>
+      <point x="628" y="946" type="curve" smooth="yes"/>
       <point x="319" y="946"/>
       <point x="131" y="742"/>
       <point x="131" y="462" type="curve" smooth="yes"/>
@@ -58,24 +59,21 @@
       <point x="1103" y="432" type="curve" smooth="yes"/>
       <point x="1103" y="729"/>
       <point x="940" y="946"/>
-      <point x="628" y="946" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="628" y="719" type="curve" smooth="yes"/>
       <point x="743" y="719"/>
       <point x="820" y="661"/>
       <point x="842" y="565" type="curve"/>
       <point x="402" y="565" type="line"/>
       <point x="431" y="669"/>
       <point x="508" y="719"/>
-      <point x="628" y="719" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>3</integer>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
   </lib>
 </glyph>

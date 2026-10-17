@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dcaron" format="1">
+<glyph name="dcaron" format="2">
   <advance width="1228"/>
   <unicode hex="010F"/>
   <outline>
+    <component base="caron.alt" xOffset="815"/>
     <contour>
       <point x="685" y="1312" type="line" smooth="yes"/>
       <point x="640" y="1312"/>
@@ -43,6 +44,7 @@
       <point x="1019" y="1312" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="555" y="719" type="curve" smooth="yes"/>
       <point x="642" y="719"/>
       <point x="697" y="661"/>
       <point x="697" y="542" type="curve" smooth="yes"/>
@@ -54,8 +56,6 @@
       <point x="347" y="376" type="curve" smooth="yes"/>
       <point x="347" y="524"/>
       <point x="414" y="719"/>
-      <point x="555" y="719" type="curve" smooth="yes"/>
     </contour>
-    <component base="caron.alt" xOffset="815"/>
   </outline>
 </glyph>

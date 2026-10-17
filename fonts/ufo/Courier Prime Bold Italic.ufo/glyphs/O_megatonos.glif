@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegatonos" format="2">
+  <advance width="1228"/>
+  <unicode hex="038F"/>
+  <outline>
+    <component base="Omega" xOffset="10"/>
+    <component base="acute.case" xScale="0.797615" xyScale="0.603167" yxScale="-0.603167" yScale="0.797615" xOffset="234" yOffset="-752"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni03A9+~acute.case</string>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

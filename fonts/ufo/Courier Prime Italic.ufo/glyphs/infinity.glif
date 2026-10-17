@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="infinity" format="1">
+<glyph name="infinity" format="2">
   <advance width="1228"/>
   <unicode hex="221E"/>
   <outline>
     <contour>
+      <point x="979" y="871" type="curve" smooth="yes"/>
       <point x="643" y="871"/>
       <point x="596" y="427"/>
       <point x="327" y="427" type="curve" smooth="yes"/>
@@ -21,9 +22,9 @@
       <point x="1232" y="582" type="curve" smooth="yes"/>
       <point x="1246" y="746"/>
       <point x="1140" y="871"/>
-      <point x="979" y="871" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="361" y="871" type="curve" smooth="yes"/>
       <point x="200" y="871"/>
       <point x="75" y="752"/>
       <point x="60" y="582" type="curve" smooth="yes"/>
@@ -41,7 +42,6 @@
       <point x="933" y="427" type="curve" smooth="yes"/>
       <point x="664" y="427"/>
       <point x="693" y="871"/>
-      <point x="361" y="871" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

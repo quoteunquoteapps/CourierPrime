@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>.notdef</key>
+  <string>_notdef.glif</string>
+  <key>Dcroat</key>
+  <string>D_croat.glif</string>
+  <key>Eng</key>
+  <string>E_ng.glif</string>
+  <key>Oslash</key>
+  <string>O_slash.glif</string>
+  <key>currency</key>
+  <string>currency.glif</string>
+  <key>d</key>
+  <string>d.glif</string>
+  <key>divisionslash</key>
+  <string>divisionslash.glif</string>
+  <key>dollar</key>
+  <string>dollar.glif</string>
+  <key>eng</key>
+  <string>eng.glif</string>
+  <key>fi</key>
+  <string>fi.glif</string>
+  <key>fl</key>
+  <string>fl.glif</string>
+  <key>minute</key>
+  <string>minute.glif</string>
+  <key>oslash</key>
+  <string>oslash.glif</string>
+  <key>softhyphen</key>
+  <string>softhyphen.glif</string>
+  <key>underscore</key>
+  <string>underscore.glif</string>
+</dict>
+</plist>

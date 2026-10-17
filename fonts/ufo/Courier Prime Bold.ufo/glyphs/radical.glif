@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="radical" format="1">
+<glyph name="radical" format="2">
   <advance width="1228"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
+      <point x="1031" y="1189" type="curve" smooth="yes"/>
       <point x="938" y="1211"/>
       <point x="895" y="1205"/>
       <point x="880" y="1160" type="curve" smooth="yes"/>
@@ -30,7 +31,6 @@
       <point x="1128" y="1090" type="line" smooth="yes"/>
       <point x="1144" y="1136"/>
       <point x="1125" y="1167"/>
-      <point x="1031" y="1189" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

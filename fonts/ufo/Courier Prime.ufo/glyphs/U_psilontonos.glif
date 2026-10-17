@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilontonos" format="2">
+  <advance width="1228"/>
+  <unicode hex="038E"/>
+  <outline>
+    <component base="Upsilon" xOffset="48"/>
+    <component base="acute.case" xScale="0.770552" xyScale="0.637378" yxScale="-0.637378" yScale="0.770552" xOffset="358" yOffset="-647"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Upsilon+~acute.case</string>
+  </dict>
+  </lib>
+</glyph>

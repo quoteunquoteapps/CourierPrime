@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="integral" format="1">
+<glyph name="integral" format="2">
   <advance width="1228"/>
   <unicode hex="222B"/>
   <outline>
     <contour>
+      <point x="1093" y="1517" type="curve" smooth="yes"/>
       <point x="865" y="1517"/>
       <point x="710" y="1368"/>
       <point x="666" y="1119" type="curve" smooth="yes"/>
@@ -41,7 +42,6 @@
       <point x="1362" y="1459" type="curve" smooth="yes"/>
       <point x="1287" y="1494"/>
       <point x="1193" y="1517"/>
-      <point x="1093" y="1517" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
